@@ -4,7 +4,6 @@
   
   <url>
     <loc>http://example.org/</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-17T18:53:59+00:00</lastmod>
   </url>
   
@@ -510,8 +509,6 @@
   
   <url>
     <loc>http://example.org/about/</loc>
-=======
->>>>>>> ef8835bede39b9430a269457a44380fd81133e2a
   </url>
   
   <url>
@@ -519,7 +516,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://example.org/datasets/</loc>
   </url>
   
@@ -533,9 +529,6 @@
   
   <url>
     <loc>http://example.org/datasets/meerkat/</loc>
-=======
-    <loc>http://example.org/</loc>
->>>>>>> ef8835bede39b9430a269457a44380fd81133e2a
   </url>
   
   <url>
