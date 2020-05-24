@@ -1,895 +1,895 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Machine learning for developers</title>
+    <link>https://www.machinelearningfordevelopers.com/</link>
+    <description>Recent content on Machine learning for developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2020 18:53:59 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.machinelearningfordevelopers.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tensorflow in .Net with ML.Net - Tech Talk With Rishi #10 - Guest: Czako Zoltan</title>
-      <link>http://example.org/specifics/file53/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file53/</link>
       <pubDate>Sun, 17 May 2020 18:53:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file53/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file53/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Classification with Jupyter Notebooks and AutoML in ML.NET</title>
-      <link>http://example.org/specifics/file52/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file52/</link>
       <pubDate>Sun, 17 May 2020 18:52:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file52/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file52/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Create a ML.NET API with gRPC</title>
-      <link>http://example.org/specifics/file51/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file51/</link>
       <pubDate>Sun, 17 May 2020 18:51:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file51/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file51/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to install ML.NET Model Builder in Visual Studio</title>
-      <link>http://example.org/specifics/file50/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file50/</link>
       <pubDate>Sun, 17 May 2020 18:50:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file50/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file50/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using ML.NET in a WPF Application</title>
-      <link>http://example.org/specifics/file49/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file49/</link>
       <pubDate>Sun, 17 May 2020 18:49:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file49/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file49/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis in ML Net Using TensorFlow</title>
-      <link>http://example.org/specifics/file48/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file48/</link>
       <pubDate>Sun, 17 May 2020 18:48:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file48/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file48/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML.NET Tutorial: How to Scale Numerical Data</title>
-      <link>http://example.org/specifics/file47/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file47/</link>
       <pubDate>Sun, 17 May 2020 18:47:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file47/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file47/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Find and Replace Missing Values in ML.NET</title>
-      <link>http://example.org/specifics/file46/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file46/</link>
       <pubDate>Sun, 17 May 2020 18:46:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file46/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file46/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML.NET End-to-End 2: Building a Web API</title>
-      <link>http://example.org/specifics/file45/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file45/</link>
       <pubDate>Sun, 17 May 2020 18:45:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file45/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file45/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build Smarter Cross-Platform Applications Using Xamarin, Azure Cognitive Services, &amp; ML.NET</title>
-      <link>http://example.org/specifics/file44/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file44/</link>
       <pubDate>Sun, 17 May 2020 18:44:59 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file44/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file44/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML.NET Naive Bayes Multi-Class Classifier C# Program   - Copyright www.jfs3tech.com</title>
-      <link>http://example.org/specifics/file43/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file43/</link>
       <pubDate>Sun, 17 May 2020 18:44:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file43/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis with .NET for Apache Spark &#43; ML.NET: Part 2 | .NET for Apache Spark 101  [6 of 8]</title>
-      <link>http://example.org/specifics/file42/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file42/</link>
       <pubDate>Sun, 17 May 2020 18:43:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file42/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file42/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML Net Tutorial 2 - Build Your First Machine Learning Model with C#</title>
-      <link>http://example.org/specifics/file41/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file41/</link>
       <pubDate>Sun, 17 May 2020 18:42:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file41/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file41/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML Net Tutorial 3 - Build Your First Machine Learning Model with C#</title>
-      <link>http://example.org/specifics/file40/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file40/</link>
       <pubDate>Sun, 17 May 2020 18:41:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file40/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file40/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BlazePort part 5 Adding Machine Learning to Blazor with ML.NET</title>
-      <link>http://example.org/specifics/file39/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file39/</link>
       <pubDate>Sun, 17 May 2020 18:40:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file39/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file39/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using ML.NET in an Azure Function for Predictions</title>
-      <link>http://example.org/specifics/file38/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file38/</link>
       <pubDate>Sun, 17 May 2020 18:39:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file38/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file38/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using the new Expression Transform in ML.NET</title>
-      <link>http://example.org/specifics/file37/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file37/</link>
       <pubDate>Sun, 17 May 2020 18:38:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file37/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file37/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to use ML NET to write crushing metal riffs - Michał Łusiak</title>
-      <link>http://example.org/specifics/file36/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file36/</link>
       <pubDate>Sun, 17 May 2020 18:37:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file36/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file36/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning with ML.NET and Azure Functions: Part 2 | Azure Tips and Tricks</title>
-      <link>http://example.org/specifics/file35/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file35/</link>
       <pubDate>Sun, 17 May 2020 18:36:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file35/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file35/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to ML.NET by Marek Linka</title>
-      <link>http://example.org/overview/file35/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file35/</link>
       <pubDate>Sun, 17 May 2020 18:35:58 +0000</pubDate>
       
-      <guid>http://example.org/overview/file35/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file35/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML Net Tutorial 2 -  Predicting Prices Using Regression Analysis</title>
-      <link>http://example.org/specifics/file34/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file34/</link>
       <pubDate>Sun, 17 May 2020 18:35:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file34/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file34/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peter DROUGGE: ML.NET - Machine Learning made for .NET @ Update Conference Prague 2018</title>
-      <link>http://example.org/overview/file34/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file34/</link>
       <pubDate>Sun, 17 May 2020 18:34:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file34/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file34/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Language Processing in ML.NET - Removing Stop Words in Text Data</title>
-      <link>http://example.org/specifics/file33/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file33/</link>
       <pubDate>Sun, 17 May 2020 18:34:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file33/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file33/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper Review Calls 016 - ML.NET</title>
-      <link>http://example.org/overview/file33/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file33/</link>
       <pubDate>Sun, 17 May 2020 18:33:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file33/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file33/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Make ML.NET Predictions with Streaming Data in Azure Event Hub</title>
-      <link>http://example.org/specifics/file32/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file32/</link>
       <pubDate>Sun, 17 May 2020 18:33:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file32/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning and AI for .NET</title>
-      <link>http://example.org/overview/file32/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file32/</link>
       <pubDate>Sun, 17 May 2020 18:32:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file32/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Perform A Custom Transform in ML.NET</title>
-      <link>http://example.org/specifics/file31/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file31/</link>
       <pubDate>Sun, 17 May 2020 18:32:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file31/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file31/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting started with Microsoft Machine Learning ML NET and AutoML</title>
-      <link>http://example.org/overview/file31/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file31/</link>
       <pubDate>Sun, 17 May 2020 18:31:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file31/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file31/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Preparation in ML.NET: Select, Drop, Take, Shuffle, and Filter</title>
-      <link>http://example.org/specifics/file30/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file30/</link>
       <pubDate>Sun, 17 May 2020 18:31:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file30/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empowering digital transformation with .NET, ML and Azure</title>
-      <link>http://example.org/overview/file30/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file30/</link>
       <pubDate>Sun, 17 May 2020 18:30:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file30/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saving and Loading Binary Data in ML.NET</title>
-      <link>http://example.org/specifics/file29/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file29/</link>
       <pubDate>Sun, 17 May 2020 18:30:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file29/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file29/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASP.NET Monsters #136: Introduction to ML.NET</title>
-      <link>http://example.org/overview/file29/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file29/</link>
       <pubDate>Sun, 17 May 2020 18:29:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file29/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file29/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build a ML model for Movie Recommendation | ML.NET [7 of 8]</title>
-      <link>http://example.org/specifics/file28/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file28/</link>
       <pubDate>Sun, 17 May 2020 18:29:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file28/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file28/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What is ML NET? Machine Learning in  NET - ML NET.</title>
-      <link>http://example.org/overview/file28/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file28/</link>
       <pubDate>Sun, 17 May 2020 18:28:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file28/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file28/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis with .NET for Apache Spark &#43; ML.NET: Part 1 | .NET for Apache Spark 101 [5 of 8]</title>
-      <link>http://example.org/specifics/file27/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file27/</link>
       <pubDate>Sun, 17 May 2020 18:28:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file27/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file27/</guid>
       <description></description>
     </item>
     
     <item>
       <title>INTRODUCTION TO ML.NET (DevReach 2018)</title>
-      <link>http://example.org/overview/file27/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file27/</link>
       <pubDate>Sun, 17 May 2020 18:27:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file27/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file27/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bot Framework V4 BotBuilder .NET Core - #6 - Sentiment analysis Middleware with ML.NET</title>
-      <link>http://example.org/specifics/file26/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file26/</link>
       <pubDate>Sun, 17 May 2020 18:27:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file26/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file26/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started with Machine Learning using ML.Net</title>
-      <link>http://example.org/overview/file26/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file26/</link>
       <pubDate>Sun, 17 May 2020 18:26:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file26/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file26/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How To Integrate ML NET with a Chat Bot</title>
-      <link>http://example.org/specifics/file25/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file25/</link>
       <pubDate>Sun, 17 May 2020 18:26:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file25/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning with ML Net C# from the Scratch(Step by Step Tutorials)</title>
-      <link>http://example.org/overview/file25/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file25/</link>
       <pubDate>Sun, 17 May 2020 18:25:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file25/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly Detection Transform in ML.NET</title>
-      <link>http://example.org/specifics/file24/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file24/</link>
       <pubDate>Sun, 17 May 2020 18:25:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file24/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LIVE: Getting started with ML .NET - Interview with Roman Schacherl</title>
-      <link>http://example.org/overview/file24/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file24/</link>
       <pubDate>Sun, 17 May 2020 18:24:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file24/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Language Processing in ML.NET - Tokenizing Text Data</title>
-      <link>http://example.org/specifics/file23/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file23/</link>
       <pubDate>Sun, 17 May 2020 18:24:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file23/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning with ML Net with Simple Example</title>
-      <link>http://example.org/overview/file23/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file23/</link>
       <pubDate>Sun, 17 May 2020 18:23:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file23/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Auto Train Machine Learning Models with ML.NET and AutoML</title>
-      <link>http://example.org/specifics/file22/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file22/</link>
       <pubDate>Sun, 17 May 2020 18:23:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file22/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning for .NET developers - Olia Gavrysh</title>
-      <link>http://example.org/overview/file22/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file22/</link>
       <pubDate>Sun, 17 May 2020 18:22:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file22/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Look at the New ML.NET API</title>
-      <link>http://example.org/specifics/file21/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file21/</link>
       <pubDate>Sun, 17 May 2020 18:22:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file21/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>201906 Introduction to ML.NET 1.0</title>
-      <link>http://example.org/overview/file21/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file21/</link>
       <pubDate>Sun, 17 May 2020 18:21:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file21/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Read in Database Data with the Database Loader in ML.NET</title>
-      <link>http://example.org/specifics/file20/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file20/</link>
       <pubDate>Sun, 17 May 2020 18:21:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file20/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML.Net Tutorial 1 - Build Your First Machine Learning Model with C#</title>
-      <link>http://example.org/overview/file20/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file20/</link>
       <pubDate>Sun, 17 May 2020 18:20:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file20/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build a ML model for predicting taxi fares | ML.NET [6 of 8]</title>
-      <link>http://example.org/specifics/file19/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file19/</link>
       <pubDate>Sun, 17 May 2020 18:20:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file19/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fun ways to Explore ML.NET : Build 2018</title>
-      <link>http://example.org/overview/file19/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file19/</link>
       <pubDate>Sun, 17 May 2020 18:19:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file19/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build a ML model for Sentiment Analysis | ML.NET [4 of 8]</title>
-      <link>http://example.org/specifics/file18/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file18/</link>
       <pubDate>Sun, 17 May 2020 18:19:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file18/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build a ML.NET Machine Learning Model in F#</title>
-      <link>http://example.org/overview/file18/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file18/</link>
       <pubDate>Sun, 17 May 2020 18:18:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file18/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Create Image Classification and Recommendation Models with the ML.NET Model Builder</title>
-      <link>http://example.org/specifics/file17/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file17/</link>
       <pubDate>Sun, 17 May 2020 18:18:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file17/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning in Visual Studio 2019 | ML.Net Getting Started</title>
-      <link>http://example.org/overview/file17/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file17/</link>
       <pubDate>Sun, 17 May 2020 18:17:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file17/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build a ML model for GitHub Issue classification | ML.NET [5 of 8]</title>
-      <link>http://example.org/specifics/file16/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file16/</link>
       <pubDate>Sun, 17 May 2020 18:17:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file16/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>August 6, 2019 - Trying something new:  ML.NET and recognizing Jeff&#39;s hats!</title>
-      <link>http://example.org/overview/file16/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file16/</link>
       <pubDate>Sun, 17 May 2020 18:16:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file16/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning with ML.NET and Azure Functions: Part 1 | Azure Tips and Tricks</title>
-      <link>http://example.org/specifics/file15/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file15/</link>
       <pubDate>Sun, 17 May 2020 18:16:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file15/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML NET  - .NET Oxford - December 2019</title>
-      <link>http://example.org/overview/file15/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file15/</link>
       <pubDate>Sun, 17 May 2020 18:15:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file15/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Language Processing in ML.NET: Producing N-Grams</title>
-      <link>http://example.org/specifics/file14/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file14/</link>
       <pubDate>Sun, 17 May 2020 18:15:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file14/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Complete Guide to Machine Learning with ML.NET</title>
-      <link>http://example.org/overview/file14/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file14/</link>
       <pubDate>Sun, 17 May 2020 18:14:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file14/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML.NET End-to-End 3: Make Predictions in the Browser with Blazor</title>
-      <link>http://example.org/specifics/file13/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file13/</link>
       <pubDate>Sun, 17 May 2020 18:14:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file13/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to do machine learning in C# with ML.NET</title>
-      <link>http://example.org/overview/file13/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file13/</link>
       <pubDate>Sun, 17 May 2020 18:13:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file13/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting started with ML.NET</title>
-      <link>http://example.org/specifics/file12/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file12/</link>
       <pubDate>Sun, 17 May 2020 18:13:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file12/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning and Artificial Intelligence for every developer with ML.NET and Visual Studio 2019</title>
-      <link>http://example.org/overview/file12/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file12/</link>
       <pubDate>Sun, 17 May 2020 18:12:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file12/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making ML.NET Predictions Within the Microsoft Bot Framework</title>
-      <link>http://example.org/specifics/file11/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file11/</link>
       <pubDate>Sun, 17 May 2020 18:12:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file11/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning Made Easy – An Introduction to ML.NET</title>
-      <link>http://example.org/overview/file11/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file11/</link>
       <pubDate>Sun, 17 May 2020 18:11:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file11/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building a ML.NET Model with a Large Amount of Features</title>
-      <link>http://example.org/specifics/file10/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file10/</link>
       <pubDate>Sun, 17 May 2020 18:11:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file10/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ml.net C# machine learning tutorial for beginners</title>
-      <link>http://example.org/overview/file10/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file10/</link>
       <pubDate>Sun, 17 May 2020 18:10:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file10/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering in ML.NET</title>
-      <link>http://example.org/specifics/file9/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file9/</link>
       <pubDate>Sun, 17 May 2020 18:10:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file9/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011</title>
-      <link>http://example.org/overview/file9/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file9/</link>
       <pubDate>Sun, 17 May 2020 18:09:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file9/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Quick Tour of the ML.NET CLI</title>
-      <link>http://example.org/specifics/file8/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file8/</link>
       <pubDate>Sun, 17 May 2020 18:09:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file8/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Create a Machine Learning Model using ML Net C#</title>
-      <link>http://example.org/overview/file8/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file8/</link>
       <pubDate>Sun, 17 May 2020 18:08:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file8/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[ML.NET] Machine Learning  C# .Net Core -  Sentiment Analysis  Basic Demo</title>
-      <link>http://example.org/specifics/file7/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file7/</link>
       <pubDate>Sun, 17 May 2020 18:08:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file7/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning with ML.NET 1.0 from Build 2019</title>
-      <link>http://example.org/overview/file7/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file7/</link>
       <pubDate>Sun, 17 May 2020 18:07:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file7/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Read and Write an ONNX Model in ML.NET</title>
-      <link>http://example.org/deeplearning/file6/</link>
+      <link>https://www.machinelearningfordevelopers.com/deeplearning/file6/</link>
       <pubDate>Sun, 17 May 2020 18:07:01 +0000</pubDate>
       
-      <guid>http://example.org/deeplearning/file6/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/deeplearning/file6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time Series Forecasting in ML.NET</title>
-      <link>http://example.org/specifics/file6/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file6/</link>
       <pubDate>Sun, 17 May 2020 18:07:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file6/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing ML.NET : Build 2018</title>
-      <link>http://example.org/overview/file6/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file6/</link>
       <pubDate>Sun, 17 May 2020 18:06:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file6/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Load and Predict on a Deep Neural Network Model in ML.NET</title>
-      <link>http://example.org/deeplearning/file5/</link>
+      <link>https://www.machinelearningfordevelopers.com/deeplearning/file5/</link>
       <pubDate>Sun, 17 May 2020 18:06:01 +0000</pubDate>
       
-      <guid>http://example.org/deeplearning/file5/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/deeplearning/file5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Create a Recommendation Model in ML.NET</title>
-      <link>http://example.org/specifics/file5/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file5/</link>
       <pubDate>Sun, 17 May 2020 18:06:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file5/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S201 - Machine Learning in .NET (ML.NET)</title>
-      <link>http://example.org/overview/file5/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file5/</link>
       <pubDate>Sun, 17 May 2020 18:05:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file5/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building Deep Neural Networks in ML NET</title>
-      <link>http://example.org/deeplearning/file4/</link>
+      <link>https://www.machinelearningfordevelopers.com/deeplearning/file4/</link>
       <pubDate>Sun, 17 May 2020 18:05:01 +0000</pubDate>
       
-      <guid>http://example.org/deeplearning/file4/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/deeplearning/file4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Create Your First Machine Learning Pipeline in ML.NET</title>
-      <link>http://example.org/specifics/file4/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file4/</link>
       <pubDate>Sun, 17 May 2020 18:05:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file4/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build a Machine Learning Model in C#, ML.Net (Step by Step)</title>
-      <link>http://example.org/overview/file4/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file4/</link>
       <pubDate>Sun, 17 May 2020 18:04:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file4/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting on a Custom Vision ONNX Model with ML.NET</title>
-      <link>http://example.org/deeplearning/file3/</link>
+      <link>https://www.machinelearningfordevelopers.com/deeplearning/file3/</link>
       <pubDate>Sun, 17 May 2020 18:04:01 +0000</pubDate>
       
-      <guid>http://example.org/deeplearning/file3/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/deeplearning/file3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Create Your First Machine Learning Pipeline in ML.NET - 2020 Update</title>
-      <link>http://example.org/specifics/file3/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file3/</link>
       <pubDate>Sun, 17 May 2020 18:04:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file3/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML.Net Rocks - Machine Learning that&#39;s ACTUALLY easy | &#39;Tech Tips&#39; @ NDC Sydney 2019</title>
-      <link>http://example.org/overview/file3/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file3/</link>
       <pubDate>Sun, 17 May 2020 18:03:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file3/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep learning with ML.NET: Image Classification | ML.NET [8 of 8]</title>
-      <link>http://example.org/deeplearning/file2/</link>
+      <link>https://www.machinelearningfordevelopers.com/deeplearning/file2/</link>
       <pubDate>Sun, 17 May 2020 18:03:01 +0000</pubDate>
       
-      <guid>http://example.org/deeplearning/file2/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/deeplearning/file2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Retrain Your ML.NET Model</title>
-      <link>http://example.org/specifics/file2/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file2/</link>
       <pubDate>Sun, 17 May 2020 18:03:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file2/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning simplified for Developers with ML.NET - Jernej Kavka (JK)</title>
-      <link>http://example.org/overview/file2/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file2/</link>
       <pubDate>Sun, 17 May 2020 18:02:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file2/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Classification with Transfer Learning in ML.NET using a Tensorflow Model</title>
-      <link>http://example.org/deeplearning/file1/</link>
+      <link>https://www.machinelearningfordevelopers.com/deeplearning/file1/</link>
       <pubDate>Sun, 17 May 2020 18:02:01 +0000</pubDate>
       
-      <guid>http://example.org/deeplearning/file1/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/deeplearning/file1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML.NET - Machine Learning Introduction | ML.NET [1 of 8]</title>
-      <link>http://example.org/specifics/file1/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file1/</link>
       <pubDate>Sun, 17 May 2020 18:02:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file1/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to ML.NET</title>
-      <link>http://example.org/overview/file1/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file1/</link>
       <pubDate>Sun, 17 May 2020 18:01:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file1/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Create a Deep Neural Network Model in ML.NET for Image Classification</title>
-      <link>http://example.org/deeplearning/file0/</link>
+      <link>https://www.machinelearningfordevelopers.com/deeplearning/file0/</link>
       <pubDate>Sun, 17 May 2020 18:01:01 +0000</pubDate>
       
-      <guid>http://example.org/deeplearning/file0/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/deeplearning/file0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML.NET End-to-End: Wine Regression with Database Data</title>
-      <link>http://example.org/specifics/file0/</link>
+      <link>https://www.machinelearningfordevelopers.com/specifics/file0/</link>
       <pubDate>Sun, 17 May 2020 18:01:00 +0000</pubDate>
       
-      <guid>http://example.org/specifics/file0/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/specifics/file0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training Machine Learning models with ML.NET</title>
-      <link>http://example.org/overview/file0/</link>
+      <link>https://www.machinelearningfordevelopers.com/overview/file0/</link>
       <pubDate>Sun, 17 May 2020 18:00:59 +0000</pubDate>
       
-      <guid>http://example.org/overview/file0/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/overview/file0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://www.machinelearningfordevelopers.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/about/</guid>
       <description>On this page, we&amp;rsquo;re collecting all articles and video tutorials we can find regarding Learning machine learning with ML.Net
 It is updated on a daily basis
 What is ML.Net? ML.Net is the open source machine learning framework for .Net, created and used internally by Microsoft
@@ -898,20 +898,20 @@ What is ML.Net? ML.Net is the open source machine learning framework for .Net, c
     
     <item>
       <title>Datasets</title>
-      <link>http://example.org/datasets/other/</link>
+      <link>https://www.machinelearningfordevelopers.com/datasets/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/datasets/other/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/datasets/other/</guid>
       <description>Where to find data to train on? Here is a collection of pages you can find data sets on
  kaggle UCI machine learning repository  </description>
     </item>
     
     <item>
       <title>Laptop prices data set</title>
-      <link>http://example.org/datasets/laptopprices/</link>
+      <link>https://www.machinelearningfordevelopers.com/datasets/laptopprices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/datasets/laptopprices/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/datasets/laptopprices/</guid>
       <description>The Laptop price data set Dataset of prices on used laptops based on their specifications.
 Collected by Karl Tillström in 2020
 File download LaptopPricesContents Columns are tab separated
@@ -923,10 +923,10 @@ License: CC BY 4.0You are free to:  Share — copy and redistribute the materia
     
     <item>
       <title>Meerkat VS mere cat data set</title>
-      <link>http://example.org/datasets/meerkat/</link>
+      <link>https://www.machinelearningfordevelopers.com/datasets/meerkat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/datasets/meerkat/</guid>
+      <guid>https://www.machinelearningfordevelopers.com/datasets/meerkat/</guid>
       <description>The Meerkat VS Mere cat dataset This data set contains images of cats and meerkats for use in image classification training.
 The Images are collected in 2020 by www.machinelearningfordevelopers.comFile download Meerkat VS merecat datasetAll images are from Unsplash.comand is subject to their License
 License All photos published on Unsplash can be used for free. You can use them for commercial and noncommercial purposes. You do not need to ask permission from or provide credit to the photographer or Unsplash, although it is appreciated when possible.</description>
