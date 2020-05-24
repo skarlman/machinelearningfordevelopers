@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+<<<<<<< HEAD
+    <lastmod>2020-05-17T18:53:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/</loc>
+    <lastmod>2020-05-17T18:53:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file53/</loc>
+    <lastmod>2020-05-17T18:53:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file52/</loc>
+    <lastmod>2020-05-17T18:52:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file51/</loc>
+    <lastmod>2020-05-17T18:51:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file50/</loc>
+    <lastmod>2020-05-17T18:50:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file49/</loc>
+    <lastmod>2020-05-17T18:49:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file48/</loc>
+    <lastmod>2020-05-17T18:48:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file47/</loc>
+    <lastmod>2020-05-17T18:47:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file46/</loc>
+    <lastmod>2020-05-17T18:46:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file45/</loc>
+    <lastmod>2020-05-17T18:45:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file44/</loc>
+    <lastmod>2020-05-17T18:44:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file43/</loc>
+    <lastmod>2020-05-17T18:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file42/</loc>
+    <lastmod>2020-05-17T18:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file41/</loc>
+    <lastmod>2020-05-17T18:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file40/</loc>
+    <lastmod>2020-05-17T18:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file39/</loc>
+    <lastmod>2020-05-17T18:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file38/</loc>
+    <lastmod>2020-05-17T18:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file37/</loc>
+    <lastmod>2020-05-17T18:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file36/</loc>
+    <lastmod>2020-05-17T18:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file35/</loc>
+    <lastmod>2020-05-17T18:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file35/</loc>
+    <lastmod>2020-05-17T18:35:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/</loc>
+    <lastmod>2020-05-17T18:35:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file34/</loc>
+    <lastmod>2020-05-17T18:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file34/</loc>
+    <lastmod>2020-05-17T18:34:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file33/</loc>
+    <lastmod>2020-05-17T18:34:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file33/</loc>
+    <lastmod>2020-05-17T18:33:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file32/</loc>
+    <lastmod>2020-05-17T18:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file32/</loc>
+    <lastmod>2020-05-17T18:32:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file31/</loc>
+    <lastmod>2020-05-17T18:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file31/</loc>
+    <lastmod>2020-05-17T18:31:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file30/</loc>
+    <lastmod>2020-05-17T18:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file30/</loc>
+    <lastmod>2020-05-17T18:30:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file29/</loc>
+    <lastmod>2020-05-17T18:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file29/</loc>
+    <lastmod>2020-05-17T18:29:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file28/</loc>
+    <lastmod>2020-05-17T18:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file28/</loc>
+    <lastmod>2020-05-17T18:28:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file27/</loc>
+    <lastmod>2020-05-17T18:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file27/</loc>
+    <lastmod>2020-05-17T18:27:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file26/</loc>
+    <lastmod>2020-05-17T18:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file26/</loc>
+    <lastmod>2020-05-17T18:26:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file25/</loc>
+    <lastmod>2020-05-17T18:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file25/</loc>
+    <lastmod>2020-05-17T18:25:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file24/</loc>
+    <lastmod>2020-05-17T18:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file24/</loc>
+    <lastmod>2020-05-17T18:24:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file23/</loc>
+    <lastmod>2020-05-17T18:24:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file23/</loc>
+    <lastmod>2020-05-17T18:23:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file22/</loc>
+    <lastmod>2020-05-17T18:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file22/</loc>
+    <lastmod>2020-05-17T18:22:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file21/</loc>
+    <lastmod>2020-05-17T18:22:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file21/</loc>
+    <lastmod>2020-05-17T18:21:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file20/</loc>
+    <lastmod>2020-05-17T18:21:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file20/</loc>
+    <lastmod>2020-05-17T18:20:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file19/</loc>
+    <lastmod>2020-05-17T18:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file19/</loc>
+    <lastmod>2020-05-17T18:19:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file18/</loc>
+    <lastmod>2020-05-17T18:19:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file18/</loc>
+    <lastmod>2020-05-17T18:18:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file17/</loc>
+    <lastmod>2020-05-17T18:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file17/</loc>
+    <lastmod>2020-05-17T18:17:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file16/</loc>
+    <lastmod>2020-05-17T18:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file16/</loc>
+    <lastmod>2020-05-17T18:16:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file15/</loc>
+    <lastmod>2020-05-17T18:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file15/</loc>
+    <lastmod>2020-05-17T18:15:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file14/</loc>
+    <lastmod>2020-05-17T18:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file14/</loc>
+    <lastmod>2020-05-17T18:14:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file13/</loc>
+    <lastmod>2020-05-17T18:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file13/</loc>
+    <lastmod>2020-05-17T18:13:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file12/</loc>
+    <lastmod>2020-05-17T18:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file12/</loc>
+    <lastmod>2020-05-17T18:12:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file11/</loc>
+    <lastmod>2020-05-17T18:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file11/</loc>
+    <lastmod>2020-05-17T18:11:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file10/</loc>
+    <lastmod>2020-05-17T18:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file10/</loc>
+    <lastmod>2020-05-17T18:10:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file9/</loc>
+    <lastmod>2020-05-17T18:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file9/</loc>
+    <lastmod>2020-05-17T18:09:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file8/</loc>
+    <lastmod>2020-05-17T18:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file8/</loc>
+    <lastmod>2020-05-17T18:08:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file7/</loc>
+    <lastmod>2020-05-17T18:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file7/</loc>
+    <lastmod>2020-05-17T18:07:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/deeplearning/</loc>
+    <lastmod>2020-05-17T18:07:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/deeplearning/file6/</loc>
+    <lastmod>2020-05-17T18:07:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file6/</loc>
+    <lastmod>2020-05-17T18:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file6/</loc>
+    <lastmod>2020-05-17T18:06:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/deeplearning/file5/</loc>
+    <lastmod>2020-05-17T18:06:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file5/</loc>
+    <lastmod>2020-05-17T18:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file5/</loc>
+    <lastmod>2020-05-17T18:05:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/deeplearning/file4/</loc>
+    <lastmod>2020-05-17T18:05:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file4/</loc>
+    <lastmod>2020-05-17T18:05:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file4/</loc>
+    <lastmod>2020-05-17T18:04:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/deeplearning/file3/</loc>
+    <lastmod>2020-05-17T18:04:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file3/</loc>
+    <lastmod>2020-05-17T18:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file3/</loc>
+    <lastmod>2020-05-17T18:03:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/deeplearning/file2/</loc>
+    <lastmod>2020-05-17T18:03:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file2/</loc>
+    <lastmod>2020-05-17T18:03:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file2/</loc>
+    <lastmod>2020-05-17T18:02:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/deeplearning/file1/</loc>
+    <lastmod>2020-05-17T18:02:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file1/</loc>
+    <lastmod>2020-05-17T18:02:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file1/</loc>
+    <lastmod>2020-05-17T18:01:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/deeplearning/file0/</loc>
+    <lastmod>2020-05-17T18:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/specifics/file0/</loc>
+    <lastmod>2020-05-17T18:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/overview/file0/</loc>
+    <lastmod>2020-05-17T18:00:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+=======
+>>>>>>> ef8835bede39b9430a269457a44380fd81133e2a
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://example.org/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/datasets/other/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/datasets/laptopprices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/datasets/meerkat/</loc>
+=======
+    <loc>http://example.org/</loc>
+>>>>>>> ef8835bede39b9430a269457a44380fd81133e2a
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

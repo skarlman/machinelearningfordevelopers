@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Learn machine learning with ML.Net for free</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+</head><body style="background-color:#f4f0f0;"><nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand ">
+    <a class="navbar-item" href="index.html">
+      
+      <h1 class="title has-text-light"><i class="fas fa-laptop-code"></i>
+        <span class="is-hidden-mobile">Machine learning for developers</span>
+        <span class="is-hidden-tablet">ML.Net for devs</span>
+      </h1>
+    </a>
+
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+      
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          ML.Net
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href ="/" class="navbar-item">
+            All
+          </a>
+                          
+          <a href ="/overview" class="navbar-item">
+            Overview
+          </a>
+                          
+          <a href="/specifics" class="navbar-item">
+            Specifics
+          </a>
+          
+          <a href="/deeplearning" class="navbar-item">
+            Deep learning
+          </a>
+          
+        </div>
+      </div>
+
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Datasets
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href="/datasets/laptopprices" class="navbar-item">
+            Laptop price (regression)
+          </a>
+                          
+          <a href="/datasets/meerkat" class="navbar-item">
+            Meerkat or Mere cat? (Image classification)
+          </a>
+          <hr class="navbar-divider">
+          <a href="/datasets/other"class="navbar-item">
+            Other collections of datasets
+          </a>
+        </div>
+      </div>
+
+
+      <a class="navbar-item" href="/about/">
+        About
+      </a>
+
+    </div>
+  </div>
+</nav><hr style="margin-top: 0px;"><div id="content">
+            
+            <section class="section is-paddingless">
+                <div class="container">
+                  
+            
+                  <div class="columns">
+
+                    <div class="column is-one-quarter">
+                      <div class='box  is-hidden-mobile '>
+                        
+                        <div class=''>
+                        <h1 class="subtitle">
+                          
+                          <i class="fas fa-graduation-cap"></i>
+                          Learn machine learning today!
+                          </h1>
+                          <p class="panel-content">Here you will find everything you need to <strong>learn machine learning</strong> on your own, using the <strong>ML.Net</strong> framework in your dotnet core applications</p>
+                          <br>
+                        </div>
+                      </div>
+                      <div class="buttons are-small is-hidden-desktop level is-mobile" style="padding-left: 10px; padding-right: 10px;">
+                        <a href="/" class='button level-item is-link'>All</a>
+                        <a href="/overview" class='button level-item is-link'>Overview</a>
+                        <a href="/specifics" class='button level-item is-info is-normal'>Specifics</a>
+                        <a href="/deeplearning" class='button level-item is-link'>Deep learning</a>
+                      <span></span>
+                      </div>
+                    </div>
+
+
+                 
+                      <div class="column is-two-fifths">
+                        <div class="box" >
+
+  <section>
+      
+        <div>
+
+<div class="card">
+    <div class="card-image">
+      <div class="box">
+    
+      <figure class="image">
+        
+        <iframe width="366" height="280" src="https://www.youtube-nocookie.com/embed/2MRB2D4flNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </figure>
+    </div>
+    </div>
+    <div class="card-content">
+      <div class="media">
+        <div class="media-left">
+          <figure class="image is-48x48">
+            <img src="/img/youtube_social_icon_red.png"/>
+          </figure>
+        </div>
+        <div class="media-content">
+          <a href="https://www.youtube.com/watch?v=2MRB2D4flNQ" target="_blank"><p class="title is-5">ML.NET End-to-End 3: Make Predictions in the Browser with Blazor</p></a>
+          
+        </div>
+
+    </div>
+    
+    <div class="content">
+        <span>The third video in the ML.NET end-to-end series shows how to use Blazor to call the ML.NET API to …</span>
+        <a class="card-toggle">
+          <i class="fa fa-angle-down"></i>
+        </a>
+        <div class="is-hidden">
+            The third video in the ML.NET end-to-end series shows how to use Blazor to call the ML.NET API to make predictions in a web page.
+
+Code - https://github.com/jwood803/MLNetWinePredictions-Blazor/tree/master/MLNetWinePredictions-Blazor
+
+ML.NET End-to-End Playlist - https://www.youtube.com/playlist?list=PLl_upHIj19ZxKToVL3vVfHOuGCilx0eMK
+
+ML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&amp;list=PLl_upHIj19Zy3o09oICOutbNfXj332czx
+
+Additional Blazor videos:
+Intro to Blazor - https://www.youtube.com/watch?v=CaxR4_fP-FA&amp;t=97s&amp;pbjreload=10
+Blazor, a new framework for browser-based .NET apps - https://www.youtube.com/watch?v=Khn7sDUSEJM&amp;t=509s
+
+Contact:
+Twitter: https://twitter.com/JWood/
+Blog: https://jonwood.co/
+
+Gear used (affiliate links):
+Mic - https://amzn.to/2YEXtxI
+Mouse - https://amzn.to/2ZtASoQ
+        </div>
+    </div>
+    
+</div>
+    
+</div>
+<br/>
+
+</div>
+      
+        <div>
+
+<div class="card">
+    <div class="card-image">
+      <div class="box">
+    
+      <figure class="image">
+        
+        <iframe width="366" height="280" src="https://www.youtube-nocookie.com/embed/6udPLZR0vvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </figure>
+    </div>
+    </div>
+    <div class="card-content">
+      <div class="media">
+        <div class="media-left">
+          <figure class="image is-48x48">
+            <img src="/img/youtube_social_icon_red.png"/>
+          </figure>
+        </div>
+        <div class="media-content">
+          <a href="https://www.youtube.com/watch?v=6udPLZR0vvQ" target="_blank"><p class="title is-5">Getting started with ML.NET</p></a>
+          
+        </div>
+
+    </div>
+    
+    <div class="content">
+        <span>Learn how to use ML.NET and automated machine learning to quickly create a machine learning model in …</span>
+        <a class="card-toggle">
+          <i class="fa fa-angle-down"></i>
+        </a>
+        <div class="is-hidden">
+            Learn how to use ML.NET and automated machine learning to quickly create a machine learning model in C#. 
+
+Topics covered:
+
+ - Downloading and installing ML.NET
+ - Getting sample data from the UCI dataset repository
+ - Training a machine learning model
+
+Want to learn more? Check out my weblog at https://fizzylogic.nl/
+        </div>
+    </div>
+    
+</div>
+    
+</div>
+<br/>
+
+</div>
+      
+        <div>
+
+<div class="card">
+    <div class="card-image">
+      <div class="box">
+    
+      <figure class="image">
+        
+        <iframe width="366" height="280" src="https://www.youtube-nocookie.com/embed/2CBjndD4Zxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </figure>
+    </div>
+    </div>
+    <div class="card-content">
+      <div class="media">
+        <div class="media-left">
+          <figure class="image is-48x48">
+            <img src="/img/youtube_social_icon_red.png"/>
+          </figure>
+        </div>
+        <div class="media-content">
+          <a href="https://www.youtube.com/watch?v=2CBjndD4Zxo" target="_blank"><p class="title is-5">Making ML.NET Predictions Within the Microsoft Bot Framework</p></a>
+          
+        </div>
+
+    </div>
+    
+    <div class="content">
+        <span>Using ML.NET within the Microsoft Bot Framework to make predictions on a machine learning model. …</span>
+        <a class="card-toggle">
+          <i class="fa fa-angle-down"></i>
+        </a>
+        <div class="is-hidden">
+            Using ML.NET within the Microsoft Bot Framework to make predictions on a machine learning model.
+
+Code - https://github.com/jwood803/MLNetExamples/tree/master/MLNetExamples/PredictionBot
+
+Bot Framework playlist - https://www.youtube.com/playlist?list=PLl_upHIj19Zy6hEcOa-uLC0Ged32or2XZ
+
+ML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&amp;list=PLl_upHIj19Zy3o09oICOutbNfXj332czx
+
+Contact:
+Twitter: https://twitter.com/JWood/
+Blog: https://jonwood.co/
+
+Gear used (affiliate links):
+Mic - https://amzn.to/2YEXtxI
+Mouse - https://amzn.to/2ZtASoQ
+        </div>
+    </div>
+    
+</div>
+    
+</div>
+<br/>
+
+</div>
+      
+        <div>
+
+<div class="card">
+    <div class="card-image">
+      <div class="box">
+    
+      <figure class="image">
+        
+        <iframe width="366" height="280" src="https://www.youtube-nocookie.com/embed/kOk5Llly-Kk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </figure>
+    </div>
+    </div>
+    <div class="card-content">
+      <div class="media">
+        <div class="media-left">
+          <figure class="image is-48x48">
+            <img src="/img/youtube_social_icon_red.png"/>
+          </figure>
+        </div>
+        <div class="media-content">
+          <a href="https://www.youtube.com/watch?v=kOk5Llly-Kk" target="_blank"><p class="title is-5">Building a ML.NET Model with a Large Amount of Features</p></a>
+          
+        </div>
+
+    </div>
+    
+    <div class="content">
+        <span>How to handle a large amount of features when creating models in ML.NET.
+
+Code - …</span>
+        <a class="card-toggle">
+          <i class="fa fa-angle-down"></i>
+        </a>
+        <div class="is-hidden">
+            How to handle a large amount of features when creating models in ML.NET.
+
+Code - https://github.com/jwood803/MLNetExamples/blob/master/MLNetExamples/LargeFeatures/Program.cs
+
+ML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&amp;list=PLl_upHIj19Zy3o09oICOutbNfXj332czx
+
+Contact:
+Twitter: https://twitter.com/JWood/
+Blog: https://jonwood.co/
+
+Gear used (affiliate links):
+Mic - https://amzn.to/2YEXtxI
+Mouse - https://amzn.to/2ZtASoQ
+        </div>
+    </div>
+    
+</div>
+    
+</div>
+<br/>
+
+</div>
+      
+    </section>
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/specifics/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+    <a href="/specifics/page/10/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/specifics/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/specifics/page/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/specifics/page/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/specifics/page/10/">10</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/specifics/page/11/">11</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/specifics/page/12/">12</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/specifics/page/14/">14</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/specifics/page/12/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/specifics/page/14/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+
+
+                          
+                        </div>
+                      </div>
+
+
+                      <div class="column"><div class="panel is-hidden-mobile">
+  <h1 class="panel-heading">
+      <i class="fas fa-laptop-code"></i>
+      ML.Net
+    </h1>
+    <div class="list">
+      <a href="/" class='is-small list-item'> All</a>
+      <a href="/overview" class='is-small list-item'> Overview</a>
+      
+      
+      <a href="/specifics" class='is-small list-item is-active'> Specifics</a>
+      <a href="/deeplearning" class='is-small list-item'> Deep learning</a>
+    </div>
+    
+</div>
+
+  <div class="panel">
+    <p class="panel-heading">
+      <i class="fas fa-database"></i>
+      Datasets
+    </p>
+
+    <div class="list">
+      
+      <a href="/datasets/laptopprices/" class="list-item"> Laptop price regression</a>
+      <a href="/datasets/meerkat/" class="list-item"> Meerkat VS mere cat image classification</a>
+      <a href="/datasets/other" class="list-item"> Other</a>
+    </div>
+    
+  
+
+
+
+</div>
+ 
+                        </div>
+                        
+              
+                      
+              
+              
+                      <div class="column">
+              
+                      </div>
+                  </div>
+              
+              
+                      
+                  </div>
+                </section>
+              
+
+
+        </div><script src="/js/main.js"></script>
+</body>
+</html>

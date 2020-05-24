@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specifics on My New Hugo Site</title>
+    <link>http://example.org/specifics/</link>
+    <description>Recent content in Specifics on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 18:53:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/specifics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tensorflow in .Net with ML.Net - Tech Talk With Rishi #10 - Guest: Czako Zoltan</title>
+      <link>http://example.org/specifics/file53/</link>
+      <pubDate>Sun, 17 May 2020 18:53:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Classification with Jupyter Notebooks and AutoML in ML.NET</title>
+      <link>http://example.org/specifics/file52/</link>
+      <pubDate>Sun, 17 May 2020 18:52:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a ML.NET API with gRPC</title>
+      <link>http://example.org/specifics/file51/</link>
+      <pubDate>Sun, 17 May 2020 18:51:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install ML.NET Model Builder in Visual Studio</title>
+      <link>http://example.org/specifics/file50/</link>
+      <pubDate>Sun, 17 May 2020 18:50:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using ML.NET in a WPF Application</title>
+      <link>http://example.org/specifics/file49/</link>
+      <pubDate>Sun, 17 May 2020 18:49:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis in ML Net Using TensorFlow</title>
+      <link>http://example.org/specifics/file48/</link>
+      <pubDate>Sun, 17 May 2020 18:48:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML.NET Tutorial: How to Scale Numerical Data</title>
+      <link>http://example.org/specifics/file47/</link>
+      <pubDate>Sun, 17 May 2020 18:47:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Find and Replace Missing Values in ML.NET</title>
+      <link>http://example.org/specifics/file46/</link>
+      <pubDate>Sun, 17 May 2020 18:46:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML.NET End-to-End 2: Building a Web API</title>
+      <link>http://example.org/specifics/file45/</link>
+      <pubDate>Sun, 17 May 2020 18:45:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build Smarter Cross-Platform Applications Using Xamarin, Azure Cognitive Services, &amp; ML.NET</title>
+      <link>http://example.org/specifics/file44/</link>
+      <pubDate>Sun, 17 May 2020 18:44:59 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML.NET Naive Bayes Multi-Class Classifier C# Program   - Copyright www.jfs3tech.com</title>
+      <link>http://example.org/specifics/file43/</link>
+      <pubDate>Sun, 17 May 2020 18:44:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis with .NET for Apache Spark &#43; ML.NET: Part 2 | .NET for Apache Spark 101  [6 of 8]</title>
+      <link>http://example.org/specifics/file42/</link>
+      <pubDate>Sun, 17 May 2020 18:43:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML Net Tutorial 2 - Build Your First Machine Learning Model with C#</title>
+      <link>http://example.org/specifics/file41/</link>
+      <pubDate>Sun, 17 May 2020 18:42:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML Net Tutorial 3 - Build Your First Machine Learning Model with C#</title>
+      <link>http://example.org/specifics/file40/</link>
+      <pubDate>Sun, 17 May 2020 18:41:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BlazePort part 5 Adding Machine Learning to Blazor with ML.NET</title>
+      <link>http://example.org/specifics/file39/</link>
+      <pubDate>Sun, 17 May 2020 18:40:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using ML.NET in an Azure Function for Predictions</title>
+      <link>http://example.org/specifics/file38/</link>
+      <pubDate>Sun, 17 May 2020 18:39:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the new Expression Transform in ML.NET</title>
+      <link>http://example.org/specifics/file37/</link>
+      <pubDate>Sun, 17 May 2020 18:38:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use ML NET to write crushing metal riffs - Michał Łusiak</title>
+      <link>http://example.org/specifics/file36/</link>
+      <pubDate>Sun, 17 May 2020 18:37:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning with ML.NET and Azure Functions: Part 2 | Azure Tips and Tricks</title>
+      <link>http://example.org/specifics/file35/</link>
+      <pubDate>Sun, 17 May 2020 18:36:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML Net Tutorial 2 -  Predicting Prices Using Regression Analysis</title>
+      <link>http://example.org/specifics/file34/</link>
+      <pubDate>Sun, 17 May 2020 18:35:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing in ML.NET - Removing Stop Words in Text Data</title>
+      <link>http://example.org/specifics/file33/</link>
+      <pubDate>Sun, 17 May 2020 18:34:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make ML.NET Predictions with Streaming Data in Azure Event Hub</title>
+      <link>http://example.org/specifics/file32/</link>
+      <pubDate>Sun, 17 May 2020 18:33:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Perform A Custom Transform in ML.NET</title>
+      <link>http://example.org/specifics/file31/</link>
+      <pubDate>Sun, 17 May 2020 18:32:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Preparation in ML.NET: Select, Drop, Take, Shuffle, and Filter</title>
+      <link>http://example.org/specifics/file30/</link>
+      <pubDate>Sun, 17 May 2020 18:31:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saving and Loading Binary Data in ML.NET</title>
+      <link>http://example.org/specifics/file29/</link>
+      <pubDate>Sun, 17 May 2020 18:30:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build a ML model for Movie Recommendation | ML.NET [7 of 8]</title>
+      <link>http://example.org/specifics/file28/</link>
+      <pubDate>Sun, 17 May 2020 18:29:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis with .NET for Apache Spark &#43; ML.NET: Part 1 | .NET for Apache Spark 101 [5 of 8]</title>
+      <link>http://example.org/specifics/file27/</link>
+      <pubDate>Sun, 17 May 2020 18:28:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bot Framework V4 BotBuilder .NET Core - #6 - Sentiment analysis Middleware with ML.NET</title>
+      <link>http://example.org/specifics/file26/</link>
+      <pubDate>Sun, 17 May 2020 18:27:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Integrate ML NET with a Chat Bot</title>
+      <link>http://example.org/specifics/file25/</link>
+      <pubDate>Sun, 17 May 2020 18:26:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection Transform in ML.NET</title>
+      <link>http://example.org/specifics/file24/</link>
+      <pubDate>Sun, 17 May 2020 18:25:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing in ML.NET - Tokenizing Text Data</title>
+      <link>http://example.org/specifics/file23/</link>
+      <pubDate>Sun, 17 May 2020 18:24:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto Train Machine Learning Models with ML.NET and AutoML</title>
+      <link>http://example.org/specifics/file22/</link>
+      <pubDate>Sun, 17 May 2020 18:23:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Look at the New ML.NET API</title>
+      <link>http://example.org/specifics/file21/</link>
+      <pubDate>Sun, 17 May 2020 18:22:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Read in Database Data with the Database Loader in ML.NET</title>
+      <link>http://example.org/specifics/file20/</link>
+      <pubDate>Sun, 17 May 2020 18:21:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build a ML model for predicting taxi fares | ML.NET [6 of 8]</title>
+      <link>http://example.org/specifics/file19/</link>
+      <pubDate>Sun, 17 May 2020 18:20:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build a ML model for Sentiment Analysis | ML.NET [4 of 8]</title>
+      <link>http://example.org/specifics/file18/</link>
+      <pubDate>Sun, 17 May 2020 18:19:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create Image Classification and Recommendation Models with the ML.NET Model Builder</title>
+      <link>http://example.org/specifics/file17/</link>
+      <pubDate>Sun, 17 May 2020 18:18:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build a ML model for GitHub Issue classification | ML.NET [5 of 8]</title>
+      <link>http://example.org/specifics/file16/</link>
+      <pubDate>Sun, 17 May 2020 18:17:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning with ML.NET and Azure Functions: Part 1 | Azure Tips and Tricks</title>
+      <link>http://example.org/specifics/file15/</link>
+      <pubDate>Sun, 17 May 2020 18:16:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing in ML.NET: Producing N-Grams</title>
+      <link>http://example.org/specifics/file14/</link>
+      <pubDate>Sun, 17 May 2020 18:15:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML.NET End-to-End 3: Make Predictions in the Browser with Blazor</title>
+      <link>http://example.org/specifics/file13/</link>
+      <pubDate>Sun, 17 May 2020 18:14:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting started with ML.NET</title>
+      <link>http://example.org/specifics/file12/</link>
+      <pubDate>Sun, 17 May 2020 18:13:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making ML.NET Predictions Within the Microsoft Bot Framework</title>
+      <link>http://example.org/specifics/file11/</link>
+      <pubDate>Sun, 17 May 2020 18:12:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a ML.NET Model with a Large Amount of Features</title>
+      <link>http://example.org/specifics/file10/</link>
+      <pubDate>Sun, 17 May 2020 18:11:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering in ML.NET</title>
+      <link>http://example.org/specifics/file9/</link>
+      <pubDate>Sun, 17 May 2020 18:10:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quick Tour of the ML.NET CLI</title>
+      <link>http://example.org/specifics/file8/</link>
+      <pubDate>Sun, 17 May 2020 18:09:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ML.NET] Machine Learning  C# .Net Core -  Sentiment Analysis  Basic Demo</title>
+      <link>http://example.org/specifics/file7/</link>
+      <pubDate>Sun, 17 May 2020 18:08:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting in ML.NET</title>
+      <link>http://example.org/specifics/file6/</link>
+      <pubDate>Sun, 17 May 2020 18:07:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a Recommendation Model in ML.NET</title>
+      <link>http://example.org/specifics/file5/</link>
+      <pubDate>Sun, 17 May 2020 18:06:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create Your First Machine Learning Pipeline in ML.NET</title>
+      <link>http://example.org/specifics/file4/</link>
+      <pubDate>Sun, 17 May 2020 18:05:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create Your First Machine Learning Pipeline in ML.NET - 2020 Update</title>
+      <link>http://example.org/specifics/file3/</link>
+      <pubDate>Sun, 17 May 2020 18:04:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Retrain Your ML.NET Model</title>
+      <link>http://example.org/specifics/file2/</link>
+      <pubDate>Sun, 17 May 2020 18:03:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML.NET - Machine Learning Introduction | ML.NET [1 of 8]</title>
+      <link>http://example.org/specifics/file1/</link>
+      <pubDate>Sun, 17 May 2020 18:02:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML.NET End-to-End: Wine Regression with Database Data</title>
+      <link>http://example.org/specifics/file0/</link>
+      <pubDate>Sun, 17 May 2020 18:01:00 +0000</pubDate>
+      
+      <guid>http://example.org/specifics/file0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

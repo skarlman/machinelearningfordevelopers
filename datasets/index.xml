@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on My New Hugo Site</title>
+    <link>http://example.org/datasets/</link>
+    <description>Recent content in Datasets on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/datasets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datasets</title>
+      <link>http://example.org/datasets/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/datasets/other/</guid>
+      <description>Where to find data to train on? Here is a collection of pages you can find data sets on
+ kaggle UCI machine learning repository  </description>
+    </item>
+    
+    <item>
+      <title>Laptop prices data set</title>
+      <link>http://example.org/datasets/laptopprices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/datasets/laptopprices/</guid>
+      <description>The Laptop price data set Dataset of prices on used laptops based on their specifications.
+Collected by Karl Tillström in 2020
+File download LaptopPricesContents Columns are tab separated
+Input Columns:
+ CPU GHz GPU RAM RAMType Screen Storage SSD Weight Price  Output column:
+ Price (in USD)  Usage If you use it; give credit by linking to https://www.machinelearningfordevelopers.com/datasets/laptopprices
+License: CC BY 4.0You are free to:  Share — copy and redistribute the material in any medium or format Adapt — remix, transform, and build upon the material for any purpose, even commercially.</description>
+    </item>
+    
+    <item>
+      <title>Meerkat VS mere cat data set</title>
+      <link>http://example.org/datasets/meerkat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/datasets/meerkat/</guid>
+      <description>The Meerkat VS Mere cat dataset This data set contains images of cats and meerkats for use in image classification training.
+The Images are collected in 2020 by www.machinelearningfordevelopers.comFile download Meerkat VS merecat datasetAll images are from Unsplash.comand is subject to their License
+License All photos published on Unsplash can be used for free. You can use them for commercial and noncommercial purposes. You do not need to ask permission from or provide credit to the photographer or Unsplash, although it is appreciated when possible.</description>
+    </item>
+    
+  </channel>
+</rss>
