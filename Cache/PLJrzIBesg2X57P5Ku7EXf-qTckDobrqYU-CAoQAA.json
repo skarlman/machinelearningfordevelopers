@@ -1,0 +1,262 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "qLafJ6ofBPgYlv4Mca59tAtEZ54",
+  "nextPageToken": "CA8QAA",
+  "prevPageToken": "CAoQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TL9qaOur8GmdAIIX3YanvTvj2Lk",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:27:29Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "ml.net C# machine learning tutorial for beginners",
+        "description": "Mathematics for Data science professionals https://www.youtube.com/watch?v=H4hzYjhEEaQ\nFor more such videos visit http://www.questpond.com\nFor more such videos subscribe https://www.youtube.com/questpondvideos\nSee our other Step by Step video series below :-\nPython Tutorial for Beginners:- https://youtu.be/KjJ7WzEL-es\nLearn Data Science in 1 hour :- https://tinyurl.com/y5o7qbau\nLearn Power BI Step by Step:- https://tinyurl.com/y6thhkxw\nLearn MSBI Step by Step in 32 hours:- https://goo.gl/TTpFZN\nLearn Tableau step by step :- https://tinyurl.com/kh6ojyo\nLearn SQL Server Step by Step http://tinyurl.com/ja4zmwu\nLearn Angular tutorial step by step https://tinyurl.com/ycd9j895\nLearn MVC Core step by step :- http://tinyurl.com/y9jt3wkv\nLearn C# Step by Step https://goo.gl/FNlqn3\nLearn Design Pattern Step by Step https://goo.gl/eJdn0m\nLearn SharePoint Step by Step in 8 hours:- https://goo.gl/XQKHeP\n\nThis video will teach you how to use C# ml.net for machine learning.\n\nTimestamp -\n1:51 - Chapter 1 - Defining Artificial intelligence and Machine Learning.\n2:55 - Chapter 2 - Fundamentals of Training data, Features, Label, Algorithm and Model.\n5:30 - Chapter 3 - Creating the feedback predictive system.\n6:19 - Chapter 4 - Pre-requisites for doing ML.NET.\n10:26 - Chapter 5 - Defining the class structure of training data.\n11:37 - Chapter 6 - Creating feedback system training data.\n15:13 - Chapter 7 - ML.NETContext and IDataView.\n17:37 - Chapter 8 - Transforms, FeatureText and Vectors.\n19:01 - Chapter 9 - ML.NET Pipeline.\n20:46 - Chapter 10 - Choosing the Algorithm - Binary classification.\n24:05 - Chapter 11 - Creating the final MODEL.\n25:00 - Chapter 12 - Testing Accuracy of the MODEL.\n33:48 - Chapter 13 - Using the MODEL.\n44:25 - Chapter 14 - Revisiting the full flow of ML.NET process.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/83LMXWmzRDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/83LMXWmzRDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/83LMXWmzRDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "83LMXWmzRDM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "83LMXWmzRDM",
+        "videoPublishedAt": "2019-01-09T11:57:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E3TMG7VqPy5uEw6_BZnOH3RZy-Q",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:28:09Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Machine Learning Made Easy – An Introduction to ML.NET",
+        "description": "Are you a .NET Developer who has always wondered what the ML and AI hype is all about? Do you want to get involved in the community and utilize ML algorithms to make your application smarter? Watch this session for a deep dive into the cross-platform open-source repository of ML.NET! \n\nWe touch upon what Machine Learning is, and how it can make our applications smarter. What ML.NET is, and why we should be excited. What some ways are in which we can make our trained models operational. Deep Learning in ML.NET. Beware, there's live coding.\n\n1:08 - ML.NET\n6:25 - Machine learning/deep learning\n16:05 - ML workflow applied to ML.NET\n26:50 - Demo\n\nThis webinar was part of JetBrains .NET Day Online 2019.\n\n#machinelearning\n\nAbout the Presenter, Alexander Slotte\nOriginally from Sweden, Alexander has 10+ years of professional software development experience, solving problems for a wide range of industries. He currently works as a Lead Consultant at Excella, and is the organizer of the .NET DC User group. He thoroughly enjoys speaking at conferences and local Meetups. He is passionate about .NET and cloud development and constantly attempts to push his knowledge on real time data streaming, data science and machine learning. When not coding, you'll find him out running or enjoying a good IPA!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dojO4zEL9sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dojO4zEL9sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dojO4zEL9sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dojO4zEL9sg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dojO4zEL9sg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dojO4zEL9sg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dojO4zEL9sg",
+        "videoPublishedAt": "2019-05-17T14:00:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qGf8fmYb4tQ9UW_TNM_t9-xOQAc",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:28:20Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Machine Learning and Artificial Intelligence for every developer with ML.NET and Visual Studio 2019",
+        "description": "Who needs fancy data scientists? See how you can infuse custom AI/ML into any .NET application with ease and how Visual Studio 2019 improves your debugging & development experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cCsOvzB3rK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cCsOvzB3rK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cCsOvzB3rK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cCsOvzB3rK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cCsOvzB3rK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cCsOvzB3rK8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cCsOvzB3rK8",
+        "videoPublishedAt": "2019-04-02T15:45:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2rvvj_R0MRO3BpuYy-SQUPJYcbg",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:28:29Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "How to do machine learning in C# with ML.NET",
+        "description": "In this episode, Willem Meints is going to introduce and demo ML.NET. ML.NET is a framework for .NET that you can leverage to do machine-learning in C# and without ever leaving your trusted .NET ecosystem. Willem is going to explain what ML.NET is and introduce some ML.NET concepts. After that he will show a demo of how to use ML.NET to build an application that can predict a taxi fare base on some user-input.\n\n00:00:19 - ML.NET introduction\n00:03:55 - Typical use-cases for using ML.NET\n00:06:37 - Overview of ML.NET concepts\n00:09:17 - ML.NET demo: predicting taxi fare\n00:24:25 - Wrap up\n\nHere you can find the ML.NET samples Willem mentioned:\nhttps://github.com/dotnet/machinelearning-samples\n\r\nThis video was made possible by Info Support (https://www.infosupport.com) and DotNed, the Dutch .NET Usergroup (https://www.dotned.nl).\r\n\r\n--",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oDfMP2VeyuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oDfMP2VeyuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oDfMP2VeyuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oDfMP2VeyuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oDfMP2VeyuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oDfMP2VeyuM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oDfMP2VeyuM",
+        "videoPublishedAt": "2020-03-04T07:03:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v56_X4ty0QD0FvJkhfhoIGTTRZs",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:28:45Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "The Complete Guide to Machine Learning with ML.NET",
+        "description": "Welcome to Machine Learning with ML.NET! In this introductory video series we will introduce the concept of Machine Learning, what you can do with various tooling, and how to get started with ML.NET!\nA Complete Machine Learning Project Walk-Through in Python\n☞ https://morioh.com/p/b56ae6b04ffc\n\nMachine Learning In Node.js With TensorFlow.js \n☞ https://morioh.com/p/a517bc403340\n\nTop 30 Python Libraries for Machine Learning\n☞ https://morioh.com/p/a42cb68ff2b5\n\nMachine learning with Python: An introduction\n☞ https://morioh.com/p/80f9648881bf\n\nMachine learning using TensorFlow for Absolute Beginners\n☞ https://morioh.com/p/4dd4d14a2b7e\n\n1. ML.NET - Machine Learning Introduction\nWelcome to Machine Learning with ML.NET! In this introductory video series we will introduce the concept of Machine Learning, what you can do with various tooling, and how to get started with ML.NET!\n\n2. ML.NET Introduction\nLearn all about what ML.NET is and what you can do with the Framework. You will also see how customers using it, the open source momentum, and a short demo of the experience.\n\n3.Getting started with ML.NET\nLearn how you can get started with ML.NET on Windows, Mac, and Linux using tools (ML.NET Model Builder, ML.NET CLI) or code-first using ML.NET API.\n\n4. Build a ML model for Sentiment Analysis\nIn this video, we will cover how to build a ML model for sentiment analysis of customer reviews using a binary classification algorithm.\n\n5. Build a ML model for GitHub Issue classification\nIn the world of ML.NET there is a high-volume of interaction with GitHub. This video will teach you how to classify incoming GitHub issues into one of the many tags (labels) using a multi-class classification algorithm.\n\n6. Build a ML model for predicting taxi fares\nThere are tons of different ways to use the model builder with ML.NET. In this video, we learn how to predict taxi fares based on distance traveled, trip time etc. using a regression algorithm. \n\n7. Build a ML model for Movie Recommendation\nHere are even more ways to use the model builder with ML.NET. In this video, we learn how to recommend movies for users using colloborative filtering based recommendation approach.\n\n8. Deep learning with ML.NET: Image Classification\nDeep learning enables many more scenarios using sound, images, text and other data types. Learn how to build an Image Classification model to classify flowers (daisies, roses etc.).\n\n#MachineLearning #DeepLearning #Morioh\n\nOriginally published\n------------------------------------------------------------------------------------\nSocial Network for Developers: http://bit.ly/2M1cxD2\nDeveloper's Store: http://bit.ly/2L27JNR\nLearn Startup: http://bit.ly/2UDotMN  \nLearn to code: http://bit.ly/2pN2aXx\nFanpage: http://bit.ly/2LyM4fJ     \nTwitter: http://bit.ly/2J7vCS0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-XPfTA8Glk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-XPfTA8Glk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-XPfTA8Glk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x-XPfTA8Glk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x-XPfTA8Glk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x-XPfTA8Glk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "x-XPfTA8Glk",
+        "videoPublishedAt": "2019-10-11T08:35:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 36,
+    "resultsPerPage": 5
+  }
+}

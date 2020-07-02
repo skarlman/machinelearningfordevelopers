@@ -1,0 +1,267 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "G_pWWg_mCGf0IerH6TmRqe3NPbM",
+  "nextPageToken": "CCgQAA",
+  "prevPageToken": "CCMQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BL0xNe5G252xT2S-vSlF5s6E2i4",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:50:37Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Machine Learning with ML.NET and Azure Functions: Part 2 | Azure Tips and Tricks",
+        "description": "In this edition of Azure Tips and Tricks, learn how you can create a serverless application with the ML.NET library and Azure Functions. \n\nFor more tips and tricks, visit: http://azuredev.tips \nGet started with 12 months of free services and $200 USD in credit. \nCreate your free account today with Microsoft Azure: http://azure.com/free \n\nAzure Documentation: https://aka.ms/att/docs  \nML.NET Overview: https://aka.ms/att/ml-dotnet-overview \nML.NET Tutorial- get started in 10 minutes: https://aka.ms/att/ml-dotnet-tutorial \nAzure Functions: https://aka.ms/att/functions  \nFollow Michael on Twitter at: https://twitter.com/mbcrump",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Zhk-Hm-7Xg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Zhk-Hm-7Xg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Zhk-Hm-7Xg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Zhk-Hm-7Xg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Zhk-Hm-7Xg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3Zhk-Hm-7Xg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3Zhk-Hm-7Xg",
+        "videoPublishedAt": "2019-06-04T16:21:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "soXUbmT37A4uRITAyvgj9E3cYek",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:51:01Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "How to use ML NET to write crushing metal riffs - Michał Łusiak",
+        "description": "ML.NET is still fairly fresh Microsoft venture into deep learning. It's written in .NET Core and a lot of good thinking went into it. It's definitely the best hope for .NET developers to do machine learning natively and easily incorporate it into existing apps.\n\nAnd to show its power we'll harness deep learning to help a metal band to get out of their rut by writing for them some awesome new riffs. \n\nFrom this talk, you'll learn how to use ML.NET, how some deep learning techniques like Recurrent Neural Networks work and how to write metal songs!\n\n\n\nCheck out more of our talks in the following links!\n\nNDC Conferences\nhttps://ndcoslo.com\nhttps://ndcconferences.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5nKPEXFyFxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5nKPEXFyFxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5nKPEXFyFxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5nKPEXFyFxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5nKPEXFyFxM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5nKPEXFyFxM",
+        "videoPublishedAt": "2019-06-28T09:27:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J2U2EYJEFkVLjA9Sdcao-o1KgJo",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:51:25Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Using the new Expression Transform in ML.NET",
+        "description": "Showing how to use the new Expression Transform in ML.NET.\n\nCode - https://github.com/jwood803/MLNetExamples/blob/master/MLNetExamples/ExpressionTransform/Program.cs\n\nExpression Transform Documentation - https://github.com/dotnet/machinelearning/blob/master/docs/api-reference/expression-estimator.md\n\nML.NET Transforms Playlist - https://www.youtube.com/playlist?list=PLl_upHIj19ZyJf-ItL5Mey9mniPiTKtvv\n\nML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&list=PLl_upHIj19Zy3o09oICOutbNfXj332czx\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2t3sOSfPFWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2t3sOSfPFWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2t3sOSfPFWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2t3sOSfPFWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2t3sOSfPFWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2t3sOSfPFWo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2t3sOSfPFWo",
+        "videoPublishedAt": "2020-01-13T12:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KJKWuQ6W0RUIdiH9DxZY5geKRpA",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:51:33Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Using ML.NET in an Azure Function for Predictions",
+        "description": "Using ML.NET in an Azure Function with an HTTP Trigger to perform predictions on a previously build ML.NET model.\n\nCode that saves the model file - https://github.com/jwood803/MLNET-HousingRegression/tree/master/HouseRegression/HouseRegression\n\nAzure function code - https://github.com/jwood803/MLNetExamples/tree/master/MLNetExamples/AzureFunction\n\nML.NET Web API video - https://www.youtube.com/watch?v=FFvpEeWW7AQ\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dh5DKvRZtlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dh5DKvRZtlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dh5DKvRZtlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dh5DKvRZtlQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dh5DKvRZtlQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dh5DKvRZtlQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dh5DKvRZtlQ",
+        "videoPublishedAt": "2019-08-19T13:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ygDh7TBEGozRyRpPElE_HxZCZfM",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:52:06Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "BlazePort part 5 Adding Machine Learning to Blazor with ML.NET",
+        "description": "[4:00] Show Starts\n\nOn today's show we add machine learning to Blazor with ML.NET\n\n -- Watch live at https://www.twitch.tv/edcharbeneau",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v9-v_CJ42fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v9-v_CJ42fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v9-v_CJ42fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v9-v_CJ42fI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v9-v_CJ42fI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v9-v_CJ42fI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "v9-v_CJ42fI",
+        "videoPublishedAt": "2019-07-08T16:22:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 54,
+    "resultsPerPage": 5
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "4WiM2z6u6Ab0xZ1dMH3aM554Ra0",
+  "nextPageToken": "CA8QAA",
+  "prevPageToken": "CAoQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T3Rc_-N6wjgxdmLPEk74BL6GdRU",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:29:31Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Building a ML.NET Model with a Large Amount of Features",
+        "description": "How to handle a large amount of features when creating models in ML.NET.\n\nCode - https://github.com/jwood803/MLNetExamples/blob/master/MLNetExamples/LargeFeatures/Program.cs\n\nML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&list=PLl_upHIj19Zy3o09oICOutbNfXj332czx\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kOk5Llly-Kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kOk5Llly-Kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kOk5Llly-Kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kOk5Llly-Kk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kOk5Llly-Kk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kOk5Llly-Kk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kOk5Llly-Kk",
+        "videoPublishedAt": "2020-04-14T13:00:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YgUWr1D1PtdRfYm-uvEmgdW7XuU",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:29:39Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Making ML.NET Predictions Within the Microsoft Bot Framework",
+        "description": "Using ML.NET within the Microsoft Bot Framework to make predictions on a machine learning model.\n\nCode - https://github.com/jwood803/MLNetExamples/tree/master/MLNetExamples/PredictionBot\n\nBot Framework playlist - https://www.youtube.com/playlist?list=PLl_upHIj19Zy6hEcOa-uLC0Ged32or2XZ\n\nML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&list=PLl_upHIj19Zy3o09oICOutbNfXj332czx\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2CBjndD4Zxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2CBjndD4Zxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2CBjndD4Zxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2CBjndD4Zxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2CBjndD4Zxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2CBjndD4Zxo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2CBjndD4Zxo",
+        "videoPublishedAt": "2020-03-04T14:00:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7dS5Aqi733dAV2AVgK6HJnUGo_c",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:29:55Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Getting started with ML.NET",
+        "description": "Learn how to use ML.NET and automated machine learning to quickly create a machine learning model in C#. \n\nTopics covered:\n\n - Downloading and installing ML.NET\n - Getting sample data from the UCI dataset repository\n - Training a machine learning model\n\nWant to learn more? Check out my weblog at https://fizzylogic.nl/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6udPLZR0vvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6udPLZR0vvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6udPLZR0vvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6udPLZR0vvQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6udPLZR0vvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6udPLZR0vvQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6udPLZR0vvQ",
+        "videoPublishedAt": "2019-08-01T19:49:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wmzi9I3EYbkCn1_WEEC7cBMAT8U",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:30:01Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "ML.NET End-to-End 3: Make Predictions in the Browser with Blazor",
+        "description": "The third video in the ML.NET end-to-end series shows how to use Blazor to call the ML.NET API to make predictions in a web page.\n\nCode - https://github.com/jwood803/MLNetWinePredictions-Blazor/tree/master/MLNetWinePredictions-Blazor\n\nML.NET End-to-End Playlist - https://www.youtube.com/playlist?list=PLl_upHIj19ZxKToVL3vVfHOuGCilx0eMK\n\nML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&list=PLl_upHIj19Zy3o09oICOutbNfXj332czx\n\nAdditional Blazor videos:\nIntro to Blazor - https://www.youtube.com/watch?v=CaxR4_fP-FA&t=97s&pbjreload=10\nBlazor, a new framework for browser-based .NET apps - https://www.youtube.com/watch?v=Khn7sDUSEJM&t=509s\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2MRB2D4flNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2MRB2D4flNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2MRB2D4flNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2MRB2D4flNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2MRB2D4flNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2MRB2D4flNQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2MRB2D4flNQ",
+        "videoPublishedAt": "2020-04-11T15:09:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1AArh04xnmM1zqsqh9fUUx748tY",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:30:09Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Natural Language Processing in ML.NET: Producing N-Grams",
+        "description": "How to produce n-grams from text data in ML.NET.\n\nCode - https://github.com/jwood803/MLNetExamples/blob/master/MLNetExamples/NGrams/Program.cs\n\nN-Gram article - https://blog.xrds.acm.org/2017/10/introduction-n-grams-need/\n\nML.NET NLP Playlist - https://www.youtube.com/playlist?list=PLl_upHIj19ZzYBP8I7l9MDQY3r6HbVxWw\n\nML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&list=PLl_upHIj19Zy3o09oICOutbNfXj332czx\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dOrRM6RN8jM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dOrRM6RN8jM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dOrRM6RN8jM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dOrRM6RN8jM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dOrRM6RN8jM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dOrRM6RN8jM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dOrRM6RN8jM",
+        "videoPublishedAt": "2020-03-27T13:15:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 54,
+    "resultsPerPage": 5
+  }
+}

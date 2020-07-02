@@ -1,0 +1,262 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "B7LLFDMYw9vMac-_uA_ezwwdsSQ",
+  "nextPageToken": "CBkQAA",
+  "prevPageToken": "CBQQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dFOzuTsmNGA57iwxg-vtI8JJHqE",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:30:58Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Read in Database Data with the Database Loader in ML.NET",
+        "description": "The new DatabaseLoader in ML.NET was updated in the 1.4-preview version. This video goes over how to use it.\n\nData - https://www.kaggle.com/camnugent/california-housing-prices\n\nCode - https://github.com/jwood803/MLNetExamples/blob/master/MLNetExamples/DatabaseLoader/Program.cs\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZEHr7W2Bzfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZEHr7W2Bzfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZEHr7W2Bzfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZEHr7W2Bzfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZEHr7W2Bzfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZEHr7W2Bzfo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZEHr7W2Bzfo",
+        "videoPublishedAt": "2019-09-12T13:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Aex44FZAWyO4JO5Rwi1nhozxbE",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:31:06Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "A Look at the New ML.NET API",
+        "description": "This quick tutorial video goes over the new API in ML.NET introduced in version 0.6.\n\nThe code in this video can be found on GitHub - https://github.com/Wintellect/DataScienceExamples/blob/master/ML.NET/MLNetExamples/NewApiExample/Program.cs\n\nMore resources:\nNew API High Level Concepts - https://github.com/dotnet/machinelearning/blob/master/docs/code/MlNetHighLevelConcepts.md\nML.NET Cookbook - https://github.com/dotnet/machinelearning/blob/master/docs/code/MlNetCookBook.md\n\nContact:\nTwitter - https://twitter.com/JWood\nBlog - https://jonwood.co/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WKDD2hyYFlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WKDD2hyYFlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WKDD2hyYFlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WKDD2hyYFlc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WKDD2hyYFlc",
+        "videoPublishedAt": "2018-10-04T21:26:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nbUGO4b2iEZmGbQqatBtRR7dT_M",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:31:13Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Auto Train Machine Learning Models with ML.NET and AutoML",
+        "description": "Using the AutoML package to find a best ML.NET model for the given data.\n\nCode - https://github.com/jwood803/MLNetExamples/tree/master/MLNetExamples/AutoML\n\nData - https://www.kaggle.com/camnugent/california-housing-prices\n\nAutoML documentation - https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/how-to-use-the-automl-api#load-data\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zohPwDzaV6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zohPwDzaV6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zohPwDzaV6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zohPwDzaV6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zohPwDzaV6c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zohPwDzaV6c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zohPwDzaV6c",
+        "videoPublishedAt": "2019-06-24T12:45:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CKir_tnRX1NtdWRyFLh4AuIishc",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:31:18Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Natural Language Processing in ML.NET - Tokenizing Text Data",
+        "description": "Using ML.NET to tokenize text data to get it ready for machine learning algorithms.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6q9tP06WqR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6q9tP06WqR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6q9tP06WqR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6q9tP06WqR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6q9tP06WqR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6q9tP06WqR8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6q9tP06WqR8",
+        "videoPublishedAt": "2019-09-23T13:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tUSeUthdOYYF54Ts5WCYGSeT5p4",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:31:33Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Anomaly Detection Transform in ML.NET",
+        "description": "Using a ML.NET transform to detect anomalies in time series data.\n\nCode - https://github.com/jwood803/MLNetExamples/blob/master/MLNetExamples/AnomalyDetection/Program.cs\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nu9lz5jNkGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nu9lz5jNkGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nu9lz5jNkGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nu9lz5jNkGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nu9lz5jNkGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nu9lz5jNkGs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Nu9lz5jNkGs",
+        "videoPublishedAt": "2019-08-02T12:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 54,
+    "resultsPerPage": 5
+  }
+}

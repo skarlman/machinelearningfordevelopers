@@ -1,0 +1,271 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "l-nobWRSa_oDOOFW7jIsKUq6ZmE",
+  "nextPageToken": "CAUQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qYTTAYPkPjTokei9KRZ3KtlNbiw",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:24:45Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "ML.NET End-to-End: Wine Regression with Database Data",
+        "description": "The first in a series of videos that goes end-to-end with an ML.NET model. This video goes over creating and using data in a database to create a model to predict wine quality and saves the data into Azure Blob Storage.\n\nEnd-to-end 2: Web API video - https://www.youtube.com/watch?v=FFvpEeWW7AQ\n\nCode - https://github.com/jwood803/MLNet-EndToEnd/blob/master/WineRegressionModel/Program.cs\n\nData - https://www.kaggle.com/rajyellow46/wine-quality\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VVekyUMEKsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VVekyUMEKsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VVekyUMEKsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VVekyUMEKsI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VVekyUMEKsI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VVekyUMEKsI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VVekyUMEKsI",
+        "videoPublishedAt": "2019-03-26T15:46:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WzZM1qNSzDMDG_l7thQTIejJyDY",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:27:06Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "ML.NET - Machine Learning Introduction | ML.NET [1 of 8]",
+        "description": "Welcome to Machine Learning with ML.NET! In this video we will introduce the concept of Machine Learning and what you can do with Machine Learning. \n\nFollow Pranav Rastogi: https://twitter.com/rustd\n\nWatch the entire series here: https://aka.ms/dotnet3-mlnet\nDownload Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19\nDownload .NET Core 3.0 here: https://aka.ms/Dotnet3\n\nLearn more about ML .NET:\nWhat is Machine Learning with .NET? https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet?&WT.mc_id=Educationalmlnet-c9-niner\nGet started with ML.NET: https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro?&WT.mc_id=Educationalmlnet-c9-niner\nML.NET Model Builder: https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/model-builder?&WT.mc_id=Educationalmlnet-c9-niner\n\nFollow us:\n Twitter: https://twitter.com/dotnet\nFacebook: https://www.facebook.com/Dotnet/\nBlogs: https://devblogs.microsoft.com/dotnet/?WT.mc_id=Educationalmlnet-c9-niner\nShows and Podcasts: https://channel9.msdn.com/Shows/On-NET/?&WT.mc_id=Educationalmlnet-c9-niner\n\nUseful Links: \nLearn .NET: https://dotnet.microsoft.com/learn?&WT.mc_id=Educationalmlnet-c9-niner\n.NET Community: https://dotnet.microsoft.com/platform/community?&WT.mc_id=Educationalmlnet-c9-niner\n.NET Documentation: https://docs.microsoft.com/en-us/dotnet/?&WT.mc_id=Educationalmlnet-c9-niner",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0DQjfW09kA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0DQjfW09kA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0DQjfW09kA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0DQjfW09kA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X0DQjfW09kA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X0DQjfW09kA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X0DQjfW09kA",
+        "videoPublishedAt": "2019-09-23T15:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E2QjFeFCPFs6JOqaK5qS51Zm_uc",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:27:20Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "How to Retrain Your ML.NET Model",
+        "description": "This video shows how to use your previously saved model to retrain a new model with new data.\n\nCode - https://github.com/jwood803/MLNetExamples/blob/master/MLNetExamples/RetrainModel/Program.cs\n\nML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&list=PLl_upHIj19Zy3o09oICOutbNfXj332czx\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/31fhZYpmcq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/31fhZYpmcq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/31fhZYpmcq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/31fhZYpmcq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/31fhZYpmcq4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "31fhZYpmcq4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "31fhZYpmcq4",
+        "videoPublishedAt": "2020-02-17T13:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eVvr03-OaCEZDu09yLEnvEMfhnI",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:27:38Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Create Your First Machine Learning Pipeline in ML.NET - 2020 Update",
+        "description": "Update on an old video that creates a linear regression machine learning pipeline using the latest version of ML.NET (v1.4).\n\nOriginal video - https://www.youtube.com/watch?v=8gVhJKszzzI\n\nCode - https://github.com/jwood803/MLNetExamples/tree/master/MLNetExamples/SimpleRegressionUpdate\n\nML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&list=PLl_upHIj19Zy3o09oICOutbNfXj332czx\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mUUWfzsADVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mUUWfzsADVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mUUWfzsADVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mUUWfzsADVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mUUWfzsADVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mUUWfzsADVg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mUUWfzsADVg",
+        "videoPublishedAt": "2019-12-31T13:20:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rE_VcswjUTphluGYSw-i-5hRF1g",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:27:46Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Create Your First Machine Learning Pipeline in ML.NET",
+        "description": "Update: The version of ML.NET in this video is quite old. For a more up-to-date version of this video check out this one - https://www.youtube.com/watch?v=mUUWfzsADVg\n\nA brief introduction to creating your first machine learning pipeline in ML.NET. Companion video to this blog post - https://www.wintellect.com/machine-learning-c-introduction-ml-net/\n\nThe code is available here - https://github.com/Wintellect/DataScienceExamples/blob/master/ML.NET/MLNetExamples/BasicPipeline/Program.cs\n\nAnd you can view the data available here - https://github.com/Wintellect/DataScienceExamples/tree/master/ML.NET/datasets\n\nR Squared post - http://statisticsbyjim.com/regression/interpret-r-squared-regression/\n\nML.NET Playlist - https://www.youtube.com/watch?v=8gVhJKszzzI&list=PLl_upHIj19Zy3o09oICOutbNfXj332czx\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8gVhJKszzzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8gVhJKszzzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8gVhJKszzzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8gVhJKszzzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8gVhJKszzzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8gVhJKszzzI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8gVhJKszzzI",
+        "videoPublishedAt": "2018-07-09T14:27:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 54,
+    "resultsPerPage": 5
+  }
+}

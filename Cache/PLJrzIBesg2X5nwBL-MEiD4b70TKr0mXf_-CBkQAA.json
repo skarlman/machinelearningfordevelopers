@@ -1,0 +1,272 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "yXZHr2tWP2W_G967fgIE5NUbZKI",
+  "nextPageToken": "CB4QAA",
+  "prevPageToken": "CBkQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kJU-nTsrz-mTf-aSCoi-MldTSJc",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:31:47Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "How To Integrate ML NET with a Chat Bot",
+        "description": "Announcing .NET Core 3.0: https://aka.ms/dotnetcore3 \n\nAre a .NET developer interested in Machine Learning? Using ML.NET and Visual Studio you can create the best ML model for your data. It won't take much time. No ML experience needed! Then you can use the model in all kinds of applications including Azure Web App Bot.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0T7P3VAh0GQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0T7P3VAh0GQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0T7P3VAh0GQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0T7P3VAh0GQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0T7P3VAh0GQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0T7P3VAh0GQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0T7P3VAh0GQ",
+        "videoPublishedAt": "2019-10-04T17:17:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AjdXonTSdkmZuLGteX7RLqOlWZw",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:32:00Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Bot Framework V4 BotBuilder .NET Core - #6 - Sentiment analysis Middleware with ML.NET",
+        "description": "In this video I show you how to add sentiment analysis Middleware which will detect the sentiment of each message using a custom ML.NET model.  \n\nCode - https://github.com/jamesemann/bot-framework-v4-intro-dotnet-core\n\nThe ML.NET code in this example is based on https://docs.microsoft.com/en-gb/dotnet/machine-learning/tutorials/sentiment-analysis\n\nIMDB large movie review dataset - http://ai.stanford.edu/~amaas/data/sentiment/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JFp-sPgO5wA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JFp-sPgO5wA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JFp-sPgO5wA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JFp-sPgO5wA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JFp-sPgO5wA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JFp-sPgO5wA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JFp-sPgO5wA",
+        "videoPublishedAt": "2018-07-30T21:35:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w8Jbn5PD3loguzALjyDY9Zb1dtk",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:32:09Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Sentiment Analysis with .NET for Apache Spark + ML.NET: Part 1 | .NET for Apache Spark 101 [5 of 8]",
+        "description": "Big data and machine learning are a powerful combination for data processing and analysis. Learn how to leverage ML.NET (through the easy-to-use Model Builder UI) in combination with .NET for Apache Spark to perform sentiment analysis on a set of online reviews.\n\nFollow Brigit Murtaugh on Twitter: https://twitter.com/BrigitMurtaugh\n\nWatch the entire series here: https://aka.ms/dotnet3-apachespark\nDownload Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19\nDownload .NET Core 3.0 here: https://aka.ms/Dotnet3\n\nLearn more about .NET for Apache Spark:\nSentiment analysis code example: https://github.com/bamurtaugh/spark/tree/SparkMLNet/examples/Microsoft.Spark.CSharp.Examples/MachineLearning\nML.NET Model Builder:\nhttps://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/model-builder/?&WT.mc_id=Educationalspark-c9-niner\nGet started with .NET for Apache Spark: https://dotnet.microsoft.com/learn/data/spark-tutorial/intro/?&WT.mc_id=Educationalspark-c9-niner\nWhat is .NET for Apache Spark? https://dotnet.microsoft.com/apps/data/spark?&WT.mc_id=Educationalspark-c9-niner\nGitHub Repo: .NET for Apache Spark: https://github.com/dotnet/spark\n\nFollow us:\nTwitter: https://twitter.com/dotnet\nFacebook: https://www.facebook.com/Dotnet/\nBlogs: https://devblogs.microsoft.com/dotnet/?WT.mc_id=Educationalspark-c9-niner\n\nUseful Links:\n.NET: https://dotnet.microsoft.com/?WT.mc_id=Educationalspark-c9-niner\nLearn .NET: https://dotnet.microsoft.com/learn?WT.mc_id=Educationalspark-c9-niner\n.NET Community: https://dotnet.microsoft.com/platform/community?WT.mc_id=Educationalspark-c9-niner",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i1AaZXzZsFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i1AaZXzZsFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i1AaZXzZsFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i1AaZXzZsFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i1AaZXzZsFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i1AaZXzZsFY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "i1AaZXzZsFY",
+        "videoPublishedAt": "2019-09-23T15:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "771NK1dHTxMf60hDDH-xvhGd44w",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:32:15Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Build a ML model for Movie Recommendation | ML.NET [7 of 8]",
+        "description": "Following our last video, here are even more ways to use the model builder with ML.NET. In this video, we learn how to recommend movies for users using colloborative filtering based recommendation approach.\n\nFollow Pranav Rastogi: https://twitter.com/rustd\n\nWatch the entire series here: https://aka.ms/dotnet3-mlnet\nDownload Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19\nDownload .NET Core 3.0 here: https://aka.ms/Dotnet3\n\nLearn more about ML .NET:\nMovie recommendation with ML.NET: https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/movie-recommendation?&WT.mc_id=Educationalmlnet-c9-niner\nWhat is Model Builder and how does it work? https://docs.microsoft.com/en-us/dotnet/machine-learning/automate-training-with-model-builder?&WT.mc_id=Educationalmlnet-c9-niner\nML.NET Model Builder: https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/model-builder?&WT.mc_id=Educationalmlnet-c9-niner\nGet started with ML.NET: https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro?&WT.mc_id=Educationalmlnet-c9-niner\nGitHub Repo ML .NET: https://github.com/dotnet/machinelearning\nGitHub Repo ML.NET Samples: https://github.com/dotnet/machinelearning-samples/blob/master/README.md\n\nFollow us:\n Twitter: https://twitter.com/dotnet\nFacebook: https://www.facebook.com/Dotnet/\nBlogs: https://devblogs.microsoft.com/dotnet/?WT.mc_id=Educationalmlnet-c9-niner\nShows and Podcasts: https://channel9.msdn.com/Shows/On-NET/?&WT.mc_id=Educationalmlnet-c9-niner\n\nUseful Links: \nLearn .NET: https://dotnet.microsoft.com/learn?&WT.mc_id=Educationalmlnet-c9-niner\n.NET Community: https://dotnet.microsoft.com/platform/community?&WT.mc_id=Educationalmlnet-c9-niner\n.NET Documentation: https://docs.microsoft.com/en-us/dotnet/?&WT.mc_id=Educationalmlnet-c9-niner",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f2KIjQCVN0A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "f2KIjQCVN0A",
+        "videoPublishedAt": "2019-09-23T15:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VB8wLKpDEdmCNzqA033uvSMpzYE",
+      "id": "UExKcnpJQmVzZzJYNW53QkwtTUVpRDRiNzBUS3IwbVhmXy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:32:20Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Saving and Loading Binary Data in ML.NET",
+        "description": "Binary data can give a performance boost when loading. This video shows how to save and load binary data in your ML.NET applications to build models against.\n\nCode - https://github.com/jwood803/MLNetExamples/blob/master/MLNetExamples/BinaryData/Program.cs\n\nContact:\nTwitter: https://twitter.com/JWood/\nBlog: https://jonwood.co/\n\nGear used (affiliate links):\nMic - https://amzn.to/2YEXtxI\nMouse - https://amzn.to/2ZtASoQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCr-7MLaCpE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCr-7MLaCpE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCr-7MLaCpE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCr-7MLaCpE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCr-7MLaCpE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X5nwBL-MEiD4b70TKr0mXf_",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PCr-7MLaCpE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PCr-7MLaCpE",
+        "videoPublishedAt": "2019-09-05T13:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 54,
+    "resultsPerPage": 5
+  }
+}

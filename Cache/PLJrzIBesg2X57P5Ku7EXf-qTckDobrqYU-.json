@@ -1,0 +1,266 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Up9UFr11F8myN0Oz9As9jvdYBzY",
+  "nextPageToken": "CAUQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "16Q-mr80_cDz1zp74ZUur5jpF5M",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:24:08Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Training Machine Learning models with ML.NET",
+        "description": "ML .NET Homepage: https://dot.net/ml?WT.mc_id=ondotnet-c9-cxa\n\nML .NET Tutorial: https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro?WT.mc_id=ondotnet-c9-cxa\n\nML .NET samples on GitHub: https://github.com/dotnet/machinelearning-samples?WT.mc_id=ondotnet-c9-cxa\n\nML .NET Model Builder extension for Visual Studio: https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/model-builder?WT.mc_id=ondotnet-c9-cxa\n\nML.NET allows .NET developers to easily build and also consume machine learning models in their NET applications.\n\nIn this episode, Bri Achtman joins Rich to show off some really interesting scenarios that ML.NET and its family of tools enables. They talk about training models, AutoML, the ML.NET CLI, and even a Visual Studio Extension for training models!\n\n1:40 - What is ML .NET?\n5:19 - How can I load my data into ML .NET?\n6:55 - Sentiment analysis  model creation demo\n10:54 - Model training and consumption\n15:30 - Rich's ML validation test\n16:37 - Object detection demo\n18:53 - How are customers using ML .NET?\n22:21 - Using AutoML and the Model Builder extension for Visual Studio\n25:06] - Using AutoML with the ML .NET CLI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HZOuPsJJFl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HZOuPsJJFl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HZOuPsJJFl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HZOuPsJJFl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HZOuPsJJFl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HZOuPsJJFl0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HZOuPsJJFl0",
+        "videoPublishedAt": "2019-08-20T11:30:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a5UXSicydkgROs5pC9jlVEHcRLM",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:25:01Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Introduction to ML.NET",
+        "description": "In this video, I'm going to walk you through a fast and simple example of leveraging ML.NET for detecting anomalies in your system.\nHere's also some resources that you might find useful:\nSource code: https://github.com/hassanhabib/ML.NET-DEMO\nML.NET Resources: https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WvgFm-6oQaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WvgFm-6oQaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WvgFm-6oQaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WvgFm-6oQaY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WvgFm-6oQaY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WvgFm-6oQaY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WvgFm-6oQaY",
+        "videoPublishedAt": "2020-02-02T03:33:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YOYCClEecfYFo62uY_J-f-pNYks",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:25:13Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Machine Learning simplified for Developers with ML.NET - Jernej Kavka (JK)",
+        "description": "Do you want to try machine learning, but don't want to invest too much time learning a new programming language or some other complicated API?\n\n|| Subscribe for more content from SSW TV ||\n\n|| Press like and leave a comment below to let us know how we're doing ||\n\nTwitter ↴\nhttps://twitter.com/ssw_tv\n\nFacebook ↴\nhttps://www.facebook.com/SSW.page\n\n------------------------------------------------------------------------------\n\nMicrosoft recently launched ML.NET 1.1 which is a great entry point for .NET developers and to gain experience building something with Machine Learning.\n\nWith the recent release of ML.NET Model Builder, we can create machine learning models by attempting to import raw data first and over time curate the data, to get better results.\n\nJK will show you how ML.NET works, how to leverage Model Builder, experiment with training data and what to watch out for when building models.\n\nLinks:\n\nhttps://jkdev.me/simple-machine-learning-classification/\n\nCredits:\n\nJernej \"JK\" Kavka → https://www.youtube.com/playlist?list=PLO0Fq_pphtfEHluXtyaX-IYy4vV2QxYeS\n\n------------------------------------------------------------------------------\n\nCreated by SSW TV | Videos By Developers, For Developers\n\nSee more at http://tv.ssw.com\n\nFor any production related enquiries please email || info@ssw.com.au ||",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LG1DHMNT0TA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LG1DHMNT0TA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LG1DHMNT0TA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LG1DHMNT0TA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LG1DHMNT0TA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LG1DHMNT0TA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LG1DHMNT0TA",
+        "videoPublishedAt": "2019-07-18T03:28:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PJXlYsd6p-WSGj17Nr-zpvLaAIs",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:25:21Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "ML.Net Rocks - Machine Learning that's ACTUALLY easy | 'Tech Tips' @ NDC Sydney 2019",
+        "description": "Machine Learning made easy.\n\n|| Subscribe for more content from SSW TV ||\n\n|| Press like and leave a comment below to let us know how we're doing ||\n\nTwitter ↴\nhttps://twitter.com/ssw_tv\n\nFacebook ↴\nhttps://www.facebook.com/SSW.page\n\n------------------------------------------------------------------------------\n\nDo you want to try machine learning, but don't want to invest too much time learning a new programming language or some other complicated API or complicated online tools?\n\nJernej Kavka (JK) and Richard Campbell are geeking out about why you would want to look at machine learning, how to get started, and what should you know when building your prototype.\n\nRead more over at JK's blog: https://jkdev.me/machine-learning-that-is-actually-easy/\n\nML.NET Model Builder opens up the world of Machine Learning to all developers.\nCredits:\n\nJK → https://sharepoint.ssw.com.au/AboutUs/Employees/Pages/JK.aspx\nRichard Campbell → https://twitter.com/richcampbell\n\n------------------------------------------------------------------------------\n\nCreated by SSW TV | Videos By Developers, For Developers\n\nSee more at http://tv.ssw.com\n\nFor any production related enquiries please email || info@ssw.com.au ||",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/35qt4DexxuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/35qt4DexxuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/35qt4DexxuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/35qt4DexxuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/35qt4DexxuE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "35qt4DexxuE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "35qt4DexxuE",
+        "videoPublishedAt": "2019-11-22T06:02:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yMFP8bym6oDhfUoFJPtonuNA8qs",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:26:05Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Build a Machine Learning Model in C#, ML.Net (Step by Step)",
+        "description": "This is a complete ML.Net Tutorial with C# and Visual Studio from the scratch.\nProcedure and Source codes here: https://www.datarmatics.com/data-science/2019/10/03/ml-net-tutorial-perform-cluster-analysis-using-iris-dataset\n\nTensorFlow Tutorials: https://www.youtube.com/playlist?list=PLMz1vLpcJgGCPONANPZymB1l6W9PzLzy5\n\nSteps\n1. Understand Your Dataset\n2. Create a Console Application in Visual Studio\n3. Create the Classes\n4. Define the Data and Model Paths\n5. Create a Machine Learning Context\n6. Load the Data\n7. Create a Learning Pipeline\n8. Train and Save the Model\n9. Make Prediction\n\nOld ML.Net Tutorials Here\nTutorial 1: https://youtu.be/2G6kkUvOPp8\nTutorial 2: https://youtu.be/LeVwap27yqY\nTutorial 3: https://youtu.be/XOzy0JwBXFY\nTutorial 4: https://youtu.be/ORgNf3FKsjI\n\nMore Tutorials on: http://kindsonthegenius.blogspot.com/2018/10/mlnet-tutorial-2-building-machine.html\n\nIntroduction to ML.Net: https://kindsonthegenius.blogspot.com/2018/09/introduction-to-machine-learning-in-net.html\n\n\nFor all tutorials visit: http://www.kindsonthegenius.com\n\nSubscribe Kindson The Tech Pro Youtube: https://bit.ly/2PpJd8Q \nJoin my group ICS on Facebook: https://bit.ly/2UULiQj \nFollow me on Instagram - https://www.instagram.com/kindsonm/ \nConnect with me on LinkedIn: https://www.linkedin.com/in/kindson/ \nFollow me on Twitter: https://twitter.com/KindsonM \nLearn about me: http://www.kindsonthegenius.com\n\nEasy ML.Net Tutorial for C# and .Net Programmers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oPckdACVhAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oPckdACVhAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oPckdACVhAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oPckdACVhAI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oPckdACVhAI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oPckdACVhAI",
+        "videoPublishedAt": "2019-10-04T11:14:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 36,
+    "resultsPerPage": 5
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Qa0WS9KrWrBMx-Z6uou-z-D7wxk",
+  "prevPageToken": "CCMQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LUPpGs1XTHGmHF9QjoWnZFJDSlQ",
+      "id": "UExKcnpJQmVzZzJYNTdQNUt1N0VYZi1xVGNrRG9icnFZVS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-05-16T05:56:59Z",
+        "channelId": "UC5JoJEUmQHoKuuXGi-Y_QUw",
+        "title": "Introduction to ML.NET by Marek Linka",
+        "description": "An introductory session to creating and using machine learning models from .NET applications.\n\nCode and slides can be found at https://github.com/mareklinka/mlnetintro\n\nMarek earns money by writing C# and train neural networks by night. You can learn more about Marek at:\n• https://www.linkedin.com/in/marek-linka-399b1845/\n• https://twitter.com/mareklinka\n• https://github.com/mareklinka",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CvFqlTCboR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CvFqlTCboR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CvFqlTCboR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Karl Tillström",
+        "playlistId": "PLJrzIBesg2X57P5Ku7EXf-qTckDobrqYU",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CvFqlTCboR4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CvFqlTCboR4",
+        "videoPublishedAt": "2019-02-21T11:54:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 36,
+    "resultsPerPage": 5
+  }
+}
