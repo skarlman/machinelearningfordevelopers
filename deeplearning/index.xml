@@ -6,51 +6,51 @@
     <description>Recent content in Deeplearnings on Machine learning for developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 12:53:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 10:33:46 +0000</lastBuildDate>
     
 	<atom:link href="https://www.machinelearningfordevelopers.com/deeplearning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep learning with ML.NET: Image Classification | ML.NET [8 of 8]</title>
+      <title>Load and Predict on a Deep Neural Network Model in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/deeplearning/file6/</link>
-      <pubDate>Thu, 02 Jul 2020 12:53:56 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2020 10:33:46 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/deeplearning/file6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Building Deep Neural Networks in ML NET</title>
+      <title>Predicting on a Custom Vision ONNX Model with ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/deeplearning/file5/</link>
-      <pubDate>Thu, 02 Jul 2020 12:52:56 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2020 10:32:46 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/deeplearning/file5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Load and Predict on a Deep Neural Network Model in ML.NET</title>
+      <title>How to Read and Write an ONNX Model in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/deeplearning/file4/</link>
-      <pubDate>Thu, 02 Jul 2020 12:51:56 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2020 10:31:46 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/deeplearning/file4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to Read and Write an ONNX Model in ML.NET</title>
+      <title>Building Deep Neural Networks in ML NET</title>
       <link>https://www.machinelearningfordevelopers.com/deeplearning/file3/</link>
-      <pubDate>Thu, 02 Jul 2020 12:50:56 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2020 10:30:46 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/deeplearning/file3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Predicting on a Custom Vision ONNX Model with ML.NET</title>
+      <title>Create a Deep Neural Network Model in ML.NET for Image Classification</title>
       <link>https://www.machinelearningfordevelopers.com/deeplearning/file2/</link>
-      <pubDate>Thu, 02 Jul 2020 12:49:56 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2020 10:29:46 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/deeplearning/file2/</guid>
       <description></description>
@@ -59,16 +59,16 @@
     <item>
       <title>Image Classification with Transfer Learning in ML.NET using a Tensorflow Model</title>
       <link>https://www.machinelearningfordevelopers.com/deeplearning/file1/</link>
-      <pubDate>Thu, 02 Jul 2020 12:48:56 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2020 10:28:46 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/deeplearning/file1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Create a Deep Neural Network Model in ML.NET for Image Classification</title>
+      <title>Deep learning with ML.NET: Image Classification | ML.NET [8 of 8]</title>
       <link>https://www.machinelearningfordevelopers.com/deeplearning/file0/</link>
-      <pubDate>Thu, 02 Jul 2020 12:47:56 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2020 10:27:46 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/deeplearning/file0/</guid>
       <description></description>
