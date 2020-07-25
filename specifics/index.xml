@@ -6,492 +6,492 @@
     <description>Recent content in Specifics on Machine learning for developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2020 11:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 08:44:32 +0000</lastBuildDate>
     
 	<atom:link href="https://www.machinelearningfordevelopers.com/specifics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ML.NET End-to-End 3: Make Predictions in the Browser with Blazor</title>
+      <title>How to install ML.NET Model Builder in Visual Studio</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file53/</link>
-      <pubDate>Fri, 03 Jul 2020 11:20:45 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:44:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file53/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Natural Language Processing in ML.NET: Producing N-Grams</title>
+      <title>Auto Train Machine Learning Models with ML.NET and AutoML</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file52/</link>
-      <pubDate>Fri, 03 Jul 2020 11:19:45 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:43:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file52/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sentiment Analysis with .NET for Apache Spark &#43; ML.NET: Part 2 | .NET for Apache Spark 101  [6 of 8]</title>
+      <title>Saving and Loading Binary Data in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file51/</link>
-      <pubDate>Fri, 03 Jul 2020 11:18:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:42:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file51/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sentiment Analysis with .NET for Apache Spark &#43; ML.NET: Part 1 | .NET for Apache Spark 101 [5 of 8]</title>
+      <title>ML Net Tutorial 2 - Build Your First Machine Learning Model with C#</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file50/</link>
-      <pubDate>Fri, 03 Jul 2020 11:17:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:41:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file50/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Build a ML model for GitHub Issue classification | ML.NET [5 of 8]</title>
+      <title>Making ML.NET Predictions Within the Microsoft Bot Framework</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file49/</link>
-      <pubDate>Fri, 03 Jul 2020 11:16:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:40:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file49/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Learning with ML.NET and Azure Functions: Part 1 | Azure Tips and Tricks</title>
+      <title>Build a ML model for GitHub Issue classification | ML.NET [5 of 8]</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file48/</link>
-      <pubDate>Fri, 03 Jul 2020 11:15:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:39:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file48/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to install ML.NET Model Builder in Visual Studio</title>
+      <title>How To Integrate ML NET with a Chat Bot</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file47/</link>
-      <pubDate>Fri, 03 Jul 2020 11:14:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:38:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file47/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ML.NET Tutorial: How to Scale Numerical Data</title>
+      <title>Build a ML model for predicting taxi fares | ML.NET [6 of 8]</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file46/</link>
-      <pubDate>Fri, 03 Jul 2020 11:13:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:37:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file46/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using ML.NET in an Azure Function for Predictions</title>
+      <title>A Quick Tour of the ML.NET CLI</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file45/</link>
-      <pubDate>Fri, 03 Jul 2020 11:12:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:36:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file45/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ML.NET End-to-End 2: Building a Web API</title>
+      <title>ML.NET End-to-End 3: Make Predictions in the Browser with Blazor</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file44/</link>
-      <pubDate>Fri, 03 Jul 2020 11:11:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:35:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file44/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How To Integrate ML NET with a Chat Bot</title>
+      <title>ML.NET - Machine Learning Introduction | ML.NET [1 of 8]</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file43/</link>
-      <pubDate>Fri, 03 Jul 2020 11:10:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:34:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file43/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Build Smarter Cross-Platform Applications Using Xamarin, Azure Cognitive Services, &amp; ML.NET</title>
+      <title>Using ML.NET in a WPF Application</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file42/</link>
-      <pubDate>Fri, 03 Jul 2020 11:09:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:33:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file42/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Time Series Forecasting in ML.NET</title>
+      <title>Create a Recommendation Model in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file41/</link>
-      <pubDate>Fri, 03 Jul 2020 11:08:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:32:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file41/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sentiment Analysis in ML Net Using TensorFlow</title>
+      <title>Natural Language Processing in ML.NET: Producing N-Grams</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file40/</link>
-      <pubDate>Fri, 03 Jul 2020 11:07:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:31:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file40/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Create a ML.NET API with gRPC</title>
+      <title>Create Your First Machine Learning Pipeline in ML.NET - 2020 Update</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file39/</link>
-      <pubDate>Fri, 03 Jul 2020 11:06:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:30:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file39/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[ML.NET] Machine Learning  C# .Net Core -  Sentiment Analysis  Basic Demo</title>
+      <title>How to Retrain Your ML.NET Model</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file38/</link>
-      <pubDate>Fri, 03 Jul 2020 11:05:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:29:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file38/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Getting started with ML.NET</title>
+      <title>ML.NET Naive Bayes Multi-Class Classifier C# Program   - Copyright www.jfs3tech.com</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file37/</link>
-      <pubDate>Fri, 03 Jul 2020 11:04:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:28:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file37/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Create Your First Machine Learning Pipeline in ML.NET</title>
+      <title>Create a ML.NET API with gRPC</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file36/</link>
-      <pubDate>Fri, 03 Jul 2020 11:03:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:27:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file36/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Make ML.NET Predictions with Streaming Data in Azure Event Hub</title>
+      <title>Sentiment Analysis with .NET for Apache Spark &#43; ML.NET: Part 1 | .NET for Apache Spark 101 [5 of 8]</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file35/</link>
-      <pubDate>Fri, 03 Jul 2020 11:02:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:26:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file35/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Clustering in ML.NET</title>
+      <title>Tensorflow in .Net with ML.Net - Tech Talk With Rishi #10 - Guest: Czako Zoltan</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file34/</link>
-      <pubDate>Fri, 03 Jul 2020 11:01:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:25:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file34/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bot Framework V4 BotBuilder .NET Core - #6 - Sentiment analysis Middleware with ML.NET</title>
+      <title>Natural Language Processing in ML.NET - Tokenizing Text Data</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file33/</link>
-      <pubDate>Fri, 03 Jul 2020 11:00:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:24:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file33/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Learning with ML.NET and Azure Functions: Part 2 | Azure Tips and Tricks</title>
+      <title>Data Preparation in ML.NET: Select, Drop, Take, Shuffle, and Filter</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file32/</link>
-      <pubDate>Fri, 03 Jul 2020 10:59:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:23:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file32/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ML.NET Naive Bayes Multi-Class Classifier C# Program   - Copyright www.jfs3tech.com</title>
+      <title>Natural Language Processing in ML.NET - Removing Stop Words in Text Data</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file31/</link>
-      <pubDate>Fri, 03 Jul 2020 10:58:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:22:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file31/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Saving and Loading Binary Data in ML.NET</title>
+      <title>[ML.NET] Machine Learning  C# .Net Core -  Sentiment Analysis  Basic Demo</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file30/</link>
-      <pubDate>Fri, 03 Jul 2020 10:57:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:21:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file30/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Anomaly Detection Transform in ML.NET</title>
+      <title>Building a ML.NET Model with a Large Amount of Features</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file29/</link>
-      <pubDate>Fri, 03 Jul 2020 10:56:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:20:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file29/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ML Net Tutorial 2 - Build Your First Machine Learning Model with C#</title>
+      <title>Using the new Expression Transform in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file28/</link>
-      <pubDate>Fri, 03 Jul 2020 10:55:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:19:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file28/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Building a ML.NET Model with a Large Amount of Features</title>
+      <title>Time Series Forecasting in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file27/</link>
-      <pubDate>Fri, 03 Jul 2020 10:54:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:18:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file27/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tensorflow in .Net with ML.Net - Tech Talk With Rishi #10 - Guest: Czako Zoltan</title>
+      <title>ML.NET End-to-End: Wine Regression with Database Data</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file26/</link>
-      <pubDate>Fri, 03 Jul 2020 10:53:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:17:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file26/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Build a ML model for Sentiment Analysis | ML.NET [4 of 8]</title>
+      <title>A Look at the New ML.NET API</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file25/</link>
-      <pubDate>Fri, 03 Jul 2020 10:52:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:16:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file25/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ML Net Tutorial 2 -  Predicting Prices Using Regression Analysis</title>
+      <title>Build Smarter Cross-Platform Applications Using Xamarin, Azure Cognitive Services, &amp; ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file24/</link>
-      <pubDate>Fri, 03 Jul 2020 10:51:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:15:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file24/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Natural Language Processing in ML.NET - Tokenizing Text Data</title>
+      <title>Build a ML model for Sentiment Analysis | ML.NET [4 of 8]</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file23/</link>
-      <pubDate>Fri, 03 Jul 2020 10:50:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:14:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file23/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using ML.NET in a WPF Application</title>
+      <title>Create Your First Machine Learning Pipeline in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file22/</link>
-      <pubDate>Fri, 03 Jul 2020 10:49:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:13:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file22/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Making ML.NET Predictions Within the Microsoft Bot Framework</title>
+      <title>Using ML.NET in an Azure Function for Predictions</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file21/</link>
-      <pubDate>Fri, 03 Jul 2020 10:48:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:12:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Natural Language Processing in ML.NET - Removing Stop Words in Text Data</title>
+      <title>ML.NET End-to-End 2: Building a Web API</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file20/</link>
-      <pubDate>Fri, 03 Jul 2020 10:47:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:11:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Quick Tour of the ML.NET CLI</title>
+      <title>Bot Framework V4 BotBuilder .NET Core - #6 - Sentiment analysis Middleware with ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file19/</link>
-      <pubDate>Fri, 03 Jul 2020 10:46:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:10:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file19/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Build a ML model for Movie Recommendation | ML.NET [7 of 8]</title>
+      <title>Find and Replace Missing Values in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file18/</link>
-      <pubDate>Fri, 03 Jul 2020 10:45:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:09:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Build a ML model for predicting taxi fares | ML.NET [6 of 8]</title>
+      <title>Machine Learning with ML.NET and Azure Functions: Part 2 | Azure Tips and Tricks</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file17/</link>
-      <pubDate>Fri, 03 Jul 2020 10:44:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:08:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ML.NET - Machine Learning Introduction | ML.NET [1 of 8]</title>
+      <title>Create Image Classification and Recommendation Models with the ML.NET Model Builder</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file16/</link>
-      <pubDate>Fri, 03 Jul 2020 10:43:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:07:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file16/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to Perform A Custom Transform in ML.NET</title>
+      <title>Image Classification with Jupyter Notebooks and AutoML in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file15/</link>
-      <pubDate>Fri, 03 Jul 2020 10:42:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:06:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file15/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BlazePort part 5 Adding Machine Learning to Blazor with ML.NET</title>
+      <title>ML Net Tutorial 2 -  Predicting Prices Using Regression Analysis</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file14/</link>
-      <pubDate>Fri, 03 Jul 2020 10:41:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:05:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file14/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Image Classification with Jupyter Notebooks and AutoML in ML.NET</title>
+      <title>Read in Database Data with the Database Loader in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file13/</link>
-      <pubDate>Fri, 03 Jul 2020 10:40:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:04:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file13/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Create Image Classification and Recommendation Models with the ML.NET Model Builder</title>
+      <title>Sentiment Analysis with .NET for Apache Spark &#43; ML.NET: Part 2 | .NET for Apache Spark 101  [6 of 8]</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file12/</link>
-      <pubDate>Fri, 03 Jul 2020 10:39:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:03:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file12/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to use ML NET to write crushing metal riffs - Michał Łusiak</title>
+      <title>Sentiment Analysis in ML Net Using TensorFlow</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file11/</link>
-      <pubDate>Fri, 03 Jul 2020 10:38:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:02:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file11/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ML Net Tutorial 3 - Build Your First Machine Learning Model with C#</title>
+      <title>Anomaly Detection Transform in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file10/</link>
-      <pubDate>Fri, 03 Jul 2020 10:37:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:01:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file10/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Auto Train Machine Learning Models with ML.NET and AutoML</title>
+      <title>Make ML.NET Predictions with Streaming Data in Azure Event Hub</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file9/</link>
-      <pubDate>Fri, 03 Jul 2020 10:36:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 08:00:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file9/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Create a Recommendation Model in ML.NET</title>
+      <title>How to use ML NET to write crushing metal riffs - Michał Łusiak</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file8/</link>
-      <pubDate>Fri, 03 Jul 2020 10:35:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:59:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file8/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data Preparation in ML.NET: Select, Drop, Take, Shuffle, and Filter</title>
+      <title>How to Perform A Custom Transform in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file7/</link>
-      <pubDate>Fri, 03 Jul 2020 10:34:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:58:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file7/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Find and Replace Missing Values in ML.NET</title>
+      <title>Machine Learning with ML.NET and Azure Functions: Part 1 | Azure Tips and Tricks</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file6/</link>
-      <pubDate>Fri, 03 Jul 2020 10:33:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:57:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Look at the New ML.NET API</title>
+      <title>Build a ML model for Movie Recommendation | ML.NET [7 of 8]</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file5/</link>
-      <pubDate>Fri, 03 Jul 2020 10:32:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:56:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using the new Expression Transform in ML.NET</title>
+      <title>BlazePort part 5 Adding Machine Learning to Blazor with ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file4/</link>
-      <pubDate>Fri, 03 Jul 2020 10:31:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:55:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Create Your First Machine Learning Pipeline in ML.NET - 2020 Update</title>
+      <title>ML.NET Tutorial: How to Scale Numerical Data</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file3/</link>
-      <pubDate>Fri, 03 Jul 2020 10:30:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:54:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to Retrain Your ML.NET Model</title>
+      <title>ML Net Tutorial 3 - Build Your First Machine Learning Model with C#</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file2/</link>
-      <pubDate>Fri, 03 Jul 2020 10:29:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:53:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ML.NET End-to-End: Wine Regression with Database Data</title>
+      <title>Clustering in ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file1/</link>
-      <pubDate>Fri, 03 Jul 2020 10:28:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:52:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Read in Database Data with the Database Loader in ML.NET</title>
+      <title>Getting started with ML.NET</title>
       <link>https://www.machinelearningfordevelopers.com/specifics/file0/</link>
-      <pubDate>Fri, 03 Jul 2020 10:27:46 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2020 07:51:32 +0000</pubDate>
       
       <guid>https://www.machinelearningfordevelopers.com/specifics/file0/</guid>
       <description></description>
